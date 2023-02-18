@@ -1,2 +1,3 @@
-# Scripting-Languages-For-Beginners
+# Scripting-Languages-Comparative-List
 A comparative list of scripting languages
+
