@@ -5,7 +5,7 @@
 
 .sct-head-languages{
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     border-left: 0;
 }
 
@@ -15,14 +15,16 @@
 
 .sct-head-txt-label{
         left: calc(50% - 1.2rem);
-        
         line-height: 1;
         padding-top: 1.5rem;
         position:static;
         transform: rotate(180deg);
         white-space: nowrap;
         writing-mode: vertical-rl;
-        
+}
+
+.sct-txt-color{
+    color: rgb(0, 0, 0);
 }
 
 .sct-head-icon{
@@ -30,11 +32,12 @@
 }
 
 .sct-general-icon{
-    display: inline-block;
     vertical-align: middle;
     flex-shrink: 0;
-    width: 10px;
-    background-image: url(../img/svg/javascript-plain.svg);
+    width: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .sct-table{
@@ -53,35 +56,44 @@
 
 .sct-head-col-languages{
     vertical-align: revert;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     border-left: 0;
     border-bottom: 0;
 }
 
+.sct-col-color-1{
+    background-color: aqua;
+}
+
 table{
     display: table;
-    border: 1px solid grey;
+    border: 1px solid rgb(0, 0, 0);
     text-indent: initial;
     border-spacing: 2px;
-    border-color: grey;
+    border-color: rgb(0, 0, 0);
 }
 
 th {
-    background: rgb(161, 161, 161);
-    padding: .4rem;
+    background: rgb(139, 139, 139);
+    padding: 0.1rem;
     vertical-align: bottom;
+}
+
+tbody td {
+    border: 1px solid rgb(0, 0, 0);
+    border-spacing: 2px;
 }
 
 
 
 
-@media screen and (min-width: 1900px){
+@media screen and (min-width: 1500px){
     .sct-container{
         width: calc(100% + 0);
     }
 }
 
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1200px) {
     .sct-container{
         margin: 0px 3rem 0px 3rem;
         overflow:visible;

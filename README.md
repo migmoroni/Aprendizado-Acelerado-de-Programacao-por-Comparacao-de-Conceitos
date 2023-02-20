@@ -2,12 +2,39 @@
 
 A comparative list of scripting and compiled languages, with a simple code from beginner to intermediate level
 
-Languages listed:
+30 Languages listed:
 
-Scripting: Ruby and JavaScript.
-Compiled: C lang.
+Scripting:
+Ruby (.rb)
+Javascript (.js)
+Typescript (.ts)
+Python (.py)
+Lua (.lua)
+PHP (.php)
+Dart (.dart)
+GDscript (.gd)
+Solidity (.sol)
+Perl (.pl)
 
-Potencial future languages:
 
-Java, C#, F#, C++, Assembly x86, Rust, Haskell, Typescript, Python and much more ...
-
+Compiled:
+Fortran (.f)
+Swift (.swift)
+Assembly x86 INTEL64 (.asm)
+C (.c)
+C++ (.cpp)
+C# (.cs)
+F# (.fs)
+D (.d)
+Java (.java)
+Rust (.rs)
+Go (.go)
+Haskell (.hs)
+OCaml (.ml)
+Scala (.scala)
+Kotlin (.kt)
+Julia (.jl)
+Elixir (.ex)
+Clojure (.clj)
+Erlang (.erl)
+Pascal (.pp)
