@@ -13,14 +13,13 @@ Lua (.lua)
 PHP (.php)
 Dart (.dart)
 GDscript (.gd)
-Solidity (.sol)
 Perl (.pl)
 
-
 Compiled:
+Assembly x86 INTEL64 (.asm)
+WebAssembly (.wasm)
 Fortran (.f)
 Swift (.swift)
-Assembly x86 INTEL64 (.asm)
 C (.c)
 C++ (.cpp)
 C# (.cs)
