@@ -1,0 +1,18 @@
+.sct-general {
+    border: 1px solid black;
+  }
+  .sct-img{
+    max-height:50px;
+    min-height:50px;
+  }
+  .sct-color-gray-l{
+    background-color: rgb(75, 75, 75);
+  }
+  .sct-color-gray{
+    background-color: rgb(224, 224, 224);
+  }
+  .sct-p-row{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+  }

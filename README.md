@@ -43,26 +43,7 @@ Haxe (.hx);
 
 <html>
     <title>README</title>
-    <style>
-      .sct-general {
-        border: 1px solid black;
-      }
-      .sct-img{
-        max-height:50px;
-        min-height:50px;
-      }
-      .sct-color-gray-l{
-        background-color: rgb(75, 75, 75);
-      }
-      .sct-color-gray{
-        background-color: rgb(224, 224, 224);
-      }
-      .sct-p-row{
-        text-align: center;
-        color: rgb(255, 255, 255);
-        font-size: 25px;
-      }
-    </style>
+    <link rel="stylesheet" href="Arquives/css/styleR.css">
 <table class="sct-general" align="center">
         <tr class="sct-color-gray-l">
             <td colspan="34" class="sct-p-row">ABOUT THE LANGUAGES</td>
