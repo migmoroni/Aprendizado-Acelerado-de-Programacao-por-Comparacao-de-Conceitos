@@ -44,10 +44,10 @@ Haxe (.hx);
 <html>
 <table align="center">
         <tr>
-            <td colspan="34" align="center">BEGINNER 1 - FIRST CONTACT</td>
+            <td colspan="34" align="center"><font size="5">EXEMPLE</font></td>
         </tr>
         <tr>
-            <td align="center"></td>
+            <td rowspan="2" align="center"><font size="5">01</font></td>
             <td align="center">
                 <a href="" title="Ruby">
                     <img align="center" height="50" src="Arquives/img/svg/devicon/ruby-original.svg"/>
@@ -130,7 +130,6 @@ Haxe (.hx);
             </td>
         </tr>
         <tr>
-            <td align="center"></td>
             <td align="center">
                 <a href="" title="D lang">
                     <img align="center" height="30rem" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
