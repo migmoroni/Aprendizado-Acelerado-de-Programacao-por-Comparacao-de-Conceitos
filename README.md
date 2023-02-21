@@ -42,7 +42,6 @@ Haxe (.hx);
 ## WOW !!!
 
 <html>
-<head>
     <title>README</title>
     <style>
       .sct-general {
@@ -64,7 +63,6 @@ Haxe (.hx);
         font-size: 25px;
       }
     </style>
-</head>
 <table class="sct-general" align="center">
         <tr class="sct-color-gray-l">
             <td colspan="34" class="sct-p-row">ABOUT THE LANGUAGES</td>
