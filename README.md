@@ -132,7 +132,7 @@ Haxe (.hx);
         <tr>
             <td align="center">
                 <a href="https://en.wikipedia.org/wiki/D_(programming_language)" title="D lang">
-                    <img align="center" height="40" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
+                    <img align="center" height="25" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
                 </a>
             </td>
             <td align="center">
