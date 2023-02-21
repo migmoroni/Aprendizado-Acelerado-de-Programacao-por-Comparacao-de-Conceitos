@@ -217,8 +217,8 @@ Haxe (.hx);
 
 <table border="2" align="center">
     <tr>
-        <td rowspan="3" align="center"><font size="5">01</font></td>
-        <td colspan="33" align="center"><font size="5" color="FFFFFF">Print "Hello World":</font></td>
+        <td rowspan="3" align="center"><font size="5">A</font></td>
+        <td colspan="33" align="left"><font size="5" color="FFFFFF">Print "Hello World":</font></td>
     </tr>
     <tr>
         <td align="center">
