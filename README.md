@@ -18,13 +18,13 @@ Perl (.pl);
 Compiled:
 Assembly x86 INTEL64 (.asm);
 WebAssembly (.wasm);
-Fortran (.f);
-Swift (.swift);
-C (.c);
-C++ (.cpp);
+Modern Fortran (.f90);
+C lang (.c);
+C++ lang (.cpp);
 C# (.cs);
 F# (.fs);
-D (.d);
+D lang (.d);
+Swift (.swift);
 Java (.java);
 Rust (.rs);
 Go (.go);
@@ -37,6 +37,6 @@ Elixir (.ex);
 Clojure (.clj);
 Erlang (.erl);
 Delphi (.pas);
-Crystal (.cr)
-BASIC (.bas)
-Haxe (.hx)
+Crystal (.cr);
+BASIC (.bas);
+Haxe (.hx);
