@@ -213,7 +213,7 @@ Haxe (.hx);
     </tr>
 </table>
 
-## First contact with as 32 Languages: 
+## First contact with as 32 Languages:
 
 <table border="2" align="center">
     <tr>
