@@ -42,8 +42,8 @@ Haxe (.hx);
 ## WOW !!!
 
 <html>
-<table border="2" bgcolor="FFFFFF" align="center">
-        <tr bgcolor="#505050">
+<table border="2" align="center">
+        <tr>
             <td colspan="34" align="center"><font size="5" color="FFFFFF">ABOUT EVERY 32 LANGUAGES</font></td>
         </tr>
         <tr>
@@ -132,7 +132,7 @@ Haxe (.hx);
         <tr>
             <td align="center">
                 <a href="https://en.wikipedia.org/wiki/D_(programming_language)" title="D lang">
-                    <img align="center" height="30rem" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
+                    <img align="center" height="40" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
                 </a>
             </td>
             <td align="center">
