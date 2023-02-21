@@ -42,7 +42,6 @@ Haxe (.hx);
 ## WOW !!!
 
 <html>
-    <title>README</title>
     <link rel="stylesheet" href="Arquives/css/styleR.css">
 <table class="sct-general" align="center">
         <tr class="sct-color-gray-l">
