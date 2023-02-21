@@ -70,7 +70,7 @@ Haxe (.hx);
             </td>
             <td align="center">
                 <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" title="Lua">
-                    <img align="center" height="50" src="Arquives/img/svg/devicon/lua-original.svg"/>
+                    <img align="center" height="50" src="Arquives/img/svg/devicon/lua-original-wordmark.svg"/>
                 </a>
             </td>
             <td align="center">
