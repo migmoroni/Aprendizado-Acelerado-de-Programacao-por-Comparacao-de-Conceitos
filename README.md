@@ -9,21 +9,21 @@ To quickly get to what you want to see, you can select below where you want to g
 
 <html>
 
-<nav>
+<nav id="#">
     <hr>
-        <a href="#str-P">Top</a>
+        <a href="#i0">Top</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-I">Hello World</a>
+        <a href="#i1">Hello World</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">Declarations</a>
+        <a href="#i2">Comments</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">Logic</a>
+        <a href="#i3">Logic</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">Control Flow</a>
+        <a href="#i4">Control Flow</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">I/O</a>
+        <a href="#i5"></a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">I/O</a>
+        <a href="#i6">I/O</a>
     <hr>
 </nav>
 
@@ -33,7 +33,7 @@ The languages are divided into two sets (Scripting or Compiled), with the focus 
 
 Here you can see the logo of each language, where you can click on them to get to know them better:
 
-<table border="2" align="center">
+<table id="#i0" border="2" align="center">
     <tr>
         <td colspan="34" align="center"><font size="5" color="FFFFFF">ABOUT THE 32 LANGUAGES</font></td>
     </tr>
@@ -206,7 +206,7 @@ Here you can see the logo of each language, where you can click on them to get t
 
 ## 0 - HELLO WORLD:
 
-<table border="2" align="center">
+<table id="#i1" border="2" align="center">
     <tr>
         <td rowspan="3" align="center"><font size="5">A</font></td>
         <td colspan="33" align="left"><font size="5" color="FFFFFF">Print "Hello World":</font></td>
