@@ -364,165 +364,165 @@ Here you can see the logo of each language, where you can click on them to get t
     </tr>
     <tr>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.rb" title="Ruby">
-                <img align="center" height="50" rc="Arquives/img/svg/devicon/ruby-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.rb" title="Ruby">
+                <img align="center" height="50" src="Arquives/img/svg/devicon/ruby-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.js" title="JavaScript">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/javascript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.js" title="JavaScript">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/javascript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.ts" title="Typescript">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/typescript-original.svg" rc="Arquives/img/svg/devicon/github-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.ts" title="Typescript">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/typescript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.py" title="Python">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/python-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.py" title="Python">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/python-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.lua" title="Lua">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/lua-original-wordmark.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.lua" title="Lua">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/lua-original-wordmark.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.php" title="PHP">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/php-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.php" title="PHP">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/php-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.dart" title="Dart">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/dart-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.dart" title="Dart">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/dart-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.gd" title="GDscript">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/godot-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.gd" title="GDscript">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/godot-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.pl" title="Perl">
-                <img align="center" height="50" src="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.pl" title="Perl">
+                <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.asm" title="Assembly INTEL64">
-                <img align="center" height="50" src="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.asm" title="Assembly INTEL64">
+                <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.wat" title="WebAssembly">
-                <img align="center" height="50" src="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.wat" title="WebAssembly">
+                <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.f90" title="Modern Fortran">
-                <img align="center" height="50" src="Arquives/img/svg/wikimedia/Fortran_logo.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.f90" title="Modern Fortran">
+                <img align="center" height="50" rc="Arquives/img/svg/wikimedia/Fortran_logo.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.c)" title="C lang">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/c-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.c)" title="C lang">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/c-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.cpp" title="C++ lang">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/cplusplus-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.cpp" title="C++ lang">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/cplusplus-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.cs" title="C#">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/csharp-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.cs" title="C#">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/csharp-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.fs" title="F#">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/fsharp-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.fs" title="F#">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/fsharp-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.d" title="D lang">
-                <img align="center" height="25" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.d" title="D lang">
+                <img align="center" height="25" rc="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.swift" title="Swift">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/swift-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.swift" title="Swift">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/swift-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.java" title="Java">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/java-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.java" title="Java">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/java-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.rs" title="Rust">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/rust-plain.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.rs" title="Rust">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/rust-plain.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.go" title="Go">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/go-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.go" title="Go">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/go-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.hs" title="Haskell">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/haskell-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.hs" title="Haskell">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/haskell-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.ml" title="OCaml">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/ocaml-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.ml" title="OCaml">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/ocaml-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.scala" title="Scala">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/scala-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.scala" title="Scala">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/scala-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.kt" title="Kotlin">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/kotlin-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.kt" title="Kotlin">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/kotlin-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.jl" title="Julia">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/julia-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.jl" title="Julia">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/julia-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.ex" title="Elixir">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/elixir-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.ex" title="Elixir">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/elixir-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.clj" title="Clojure">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/clojure-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.clj" title="Clojure">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/clojure-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.erl" title="Erlang">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/erlang-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.erl" title="Erlang">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/erlang-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.cr" title="Crystal">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/crystal-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.cr" title="Crystal">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/crystal-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.elm" title="Elm">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/elm-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.elm" title="Elm">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/elm-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Hello_World/Hello-World.hx" title="Haxe">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/haxe-original.svg"/>
+            <a href="Languages/1_CODE/0_Comments/Comments.hx" title="Haxe">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/haxe-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
     </tr>
