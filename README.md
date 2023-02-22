@@ -5,25 +5,25 @@
 This project is intended to be a small "Rosetta stone", containing a code comparison of several languages.
 The idea is to work with the basics in each one, with the minimum necessary to be able to consult and get to know each language much more quickly.
 
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages
+To quickly get to what you want to see, you can select below where you want to go:
 
 <html>
 
 <nav>
     <hr>
-        <a href="#">About this Project</a>
+        <a href="#str-P">Top</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-P">About the Languages</a>
+        <a href="#str-I">Hello World</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-I">0 - Hello World</a>
+        <a href="#str-B1">Declarations</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">1</a>
+        <a href="#str-B1">Logic</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">2</a>
+        <a href="#str-B1">Control Flow</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">3</a>
+        <a href="#str-B1">I/O</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">4</a>
+        <a href="#str-B1">I/O</a>
     <hr>
 </nav>
 
