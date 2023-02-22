@@ -5,27 +5,7 @@
 This project is intended to be a small "Rosetta stone", containing a code comparison of several languages.
 The idea is to work with the basics in each one, with the minimum necessary to be able to consult and get to know each language much more quickly.
 
-To quickly get to what you want to see, you can select below where you want to go:
-
 <html>
-
-<nav id="#">
-    <hr>
-        <a href="#i0">Top</a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="#i1">Hello World</a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="#i2">Comments</a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="#i3">Logic</a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="#i4">Control Flow</a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="#i5"></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="#i6">I/O</a>
-    <hr>
-</nav>
 
 ## ABOUT THE LANGUAGES:
 
@@ -208,7 +188,7 @@ Here you can see the logo of each language, where you can click on them to get t
 
 <table id="#i1" border="2" align="center">
     <tr>
-        <td rowspan="3" align="center"><font size="5">A</font></td>
+        <td rowspan="3" align="center"><font size="5" rotate=(90)>A</font></td>
         <td colspan="33" align="left"><font size="5" color="FFFFFF">Print "Hello World":</font></td>
     </tr>
     <tr>
