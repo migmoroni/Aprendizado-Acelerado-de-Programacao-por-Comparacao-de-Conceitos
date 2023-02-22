@@ -365,17 +365,17 @@ Here you can see the logo of each language, where you can click on them to get t
     <tr>
         <td align="center">
             <a href="Languages/1_CODE/0_Hello_World/Hello-World.rb" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/ruby-original.svg"/>
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/ruby-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
             <a href="Languages/1_CODE/0_Hello_World/Hello-World.js" title="JavaScript">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/javascript-original.svg"/>
+                <img align="center" height="50" src="Arquives/img/svg/devicon/javascript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
             <a href="Languages/1_CODE/0_Hello_World/Hello-World.ts" title="Typescript">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/typescript-original.svg"/>
+                <img align="center" height="50" src="Arquives/img/svg/devicon/typescript-original.svg" rc="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
@@ -522,7 +522,7 @@ Here you can see the logo of each language, where you can click on them to get t
         </td>
         <td align="center">
             <a href="Languages/1_CODE/0_Hello_World/Hello-World.hx" title="Haxe">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/haxe-original.svg" disable/>
+                <img align="center" height="50" src="Arquives/img/svg/devicon/haxe-original.svg"/>
             </a>
         </td>
     </tr>
