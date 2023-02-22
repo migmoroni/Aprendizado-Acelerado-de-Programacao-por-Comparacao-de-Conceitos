@@ -2,46 +2,8 @@
 
 ## A comparative list of scripting and compiled languages, with a simple code for beginners in 32 program languages !
 
-
-### Scripting languages:
-Ruby (.rb);
-Javascript (.js);
-Typescript (.ts);
-Python (.py);
-Lua (.lua);
-PHP (.php);
-Dart (.dart);
-GDscript (.gd);
-Perl (.pl);
-
-### Compiled Languages:
-Assembly x86 INTEL64 (.asm);
-WebAssembly (.wat);
-Modern Fortran (.f90);
-C lang (.c);
-C++ lang (.cpp);
-C# (.cs);
-F# (.fs);
-D lang (.d);
-Swift (.swift);
-Java (.java);
-Rust (.rs);
-Go (.go);
-Haskell (.hs);
-OCaml (.ml);
-Scala (.scala);
-Kotlin (.kt);
-Julia (.jl);
-Elixir (.ex);
-Clojure (.clj);
-Erlang (.erl);
-Crystal (.cr);
-Elm (.elm);
-Haxe (.hx);
-
-## WOW !!!
-
-## 
+This project is intended to be a small "Rosetta stone", containing a code comparison of several languages.
+The idea is to work with the basics in each one, with the minimum necessary to be able to consult and get to know each language much more quickly.
 
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages
 
@@ -49,17 +11,27 @@ https://en.wikipedia.org/wiki/Comparison_of_programming_languages
 
 <nav>
     <hr>
-        <a href="#">Page Top</a>
+        <a href="#">About this Project</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-P">About Project</a>
+        <a href="#str-P">About the Languages</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-I">About Languages</a>
+        <a href="#str-I">0 - Hello World</a>
         &nbsp;&nbsp;&nbsp;
-        <a href="#str-B1">Comparison of "Hello World"</a>
+        <a href="#str-B1">1</a>
         &nbsp;&nbsp;&nbsp;
-        <!--<a href="#str-H">How do you can help</a>-->
+        <a href="#str-B1">2</a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="#str-B1">3</a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="#str-B1">4</a>
     <hr>
 </nav>
+
+## ABOUT THE LANGUAGES:
+
+The languages are divided into two sets (Scripting or Compiled), with the focus on making it easier to show which language you can test more easily
+
+Here you can see the logo of each language, where you can click on them to get to know them better:
 
 <table border="2" align="center">
     <tr>
