@@ -522,17 +522,11 @@ Here you can see the logo of each language, where you can click on them to get t
         </td>
         <td align="center">
             <a href="Languages/1_CODE/0_Hello_World/Hello-World.hx" title="Haxe">
-                <img align="center" height="50" src="Arquives/img/svg/devicon/haxe-original.svg"/>
+                <img align="center" height="50" src="Arquives/img/svg/devicon/haxe-original.svg" disable/>
             </a>
         </td>
     </tr>
 </table>
-
-<label for="emp">Employed:</label>
-    <select name="emp">
-        <option>No</option>
-        <option>Yes</option>
-    </select>
 
 
 ## 1 -
