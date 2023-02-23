@@ -103,7 +103,7 @@ Here you can see the logo of each language, where you can click on them to get t
     <tr>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/D_(programming_language)" title="D lang">
-                <img align="center" height="25" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
+                <img align="center" height="50%" width="60" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
             </a>
         </td>
         <td align="center">
@@ -275,7 +275,7 @@ Here you can see the logo of each language, where you can click on them to get t
     <tr>
         <td align="center">
             <a href="Languages/1_CODE/0_Start/0_1_Hello_World/Hello-World.d" title="D lang">
-                <img align="center" height="25" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
+                <img align="center" height="50%" width="60" src="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"/>
             </a>
         </td>
         <td align="center">
@@ -362,178 +362,516 @@ Here you can see the logo of each language, where you can click on them to get t
     </tr>
     <tr>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.rb" title="Ruby">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.rb" title="Ruby">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/ruby-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.js" title="JavaScript">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.js" title="JavaScript">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/javascript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.ts" title="Typescript">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.ts" title="Typescript">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/typescript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.py" title="Python">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.py" title="Python">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/python-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.lua" title="Lua">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.lua" title="Lua">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/lua-original-wordmark.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.php" title="PHP">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.php" title="PHP">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/php-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.dart" title="Dart">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.dart" title="Dart">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/dart-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.gd" title="GDscript">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.gd" title="GDscript">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/godot-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.pl" title="Perl">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.pl" title="Perl">
                 <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.asm" title="Assembly INTEL64">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.asm" title="Assembly INTEL64">
                 <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.wat" title="WebAssembly">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.wat" title="WebAssembly">
                 <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.f90" title="Modern Fortran">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.f90" title="Modern Fortran">
                 <img align="center" height="50" rc="Arquives/img/svg/wikimedia/Fortran_logo.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.c)" title="C lang">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.c)" title="C lang">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/c-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.cpp" title="C++ lang">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.cpp" title="C++ lang">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/cplusplus-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.cs" title="C#">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.cs" title="C#">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/csharp-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.fs" title="F#">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.fs" title="F#">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/fsharp-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.d" title="D lang">
-                <img align="center" height="25" rc="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.d" title="D lang">
+                <img align="center" height="50" eight="50%" idth="60" rc="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.swift" title="Swift">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.swift" title="Swift">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/swift-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.java" title="Java">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.java" title="Java">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/java-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.rs" title="Rust">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.rs" title="Rust">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/rust-plain.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.go" title="Go">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.go" title="Go">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/go-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.hs" title="Haskell">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.hs" title="Haskell">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/haskell-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.ml" title="OCaml">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.ml" title="OCaml">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/ocaml-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.scala" title="Scala">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.scala" title="Scala">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/scala-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.kt" title="Kotlin">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.kt" title="Kotlin">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/kotlin-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.jl" title="Julia">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.jl" title="Julia">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/julia-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.ex" title="Elixir">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.ex" title="Elixir">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/elixir-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.clj" title="Clojure">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.clj" title="Clojure">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/clojure-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.erl" title="Erlang">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.erl" title="Erlang">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/erlang-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.cr" title="Crystal">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.cr" title="Crystal">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/crystal-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.elm" title="Elm">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.elm" title="Elm">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/elm-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
         <td align="center">
-            <a href="Languages/1_CODE/0_Start/0_2_Comments/Comments.hx" title="Haxe">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.hx" title="Haxe">
                 <img align="center" height="50" rc="Arquives/img/svg/devicon/haxe-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
             </a>
         </td>
     </tr>
 </table>
 
+## 1 - BASIC
 
-## 1 -
-    
+<table id="#i1" border="2" align="center">
+    <tr>
+        <td colspan="16" align="left"><font size="5" color="FFFFFF">1.1 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Typing</a>:</font></td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.rb" title="Ruby">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/ruby-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.js" title="JavaScript">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/javascript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.ts" title="Typescript">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/typescript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.py" title="Python">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/python-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.lua" title="Lua">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/lua-original-wordmark.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.php" title="PHP">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/php-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.dart" title="Dart">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/dart-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.gd" title="GDscript">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/godot-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.pl" title="Perl">
+                <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.asm" title="Assembly INTEL64">
+                <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.wat" title="WebAssembly">
+                <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.f90" title="Modern Fortran">
+                <img align="center" height="50" rc="Arquives/img/svg/wikimedia/Fortran_logo.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.c)" title="C lang">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/c-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.cpp" title="C++ lang">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/cplusplus-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.cs" title="C#">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/csharp-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.fs" title="F#">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/fsharp-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.d" title="D lang">
+                <img align="center" height="50" eight="50%" idth="60" rc="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.swift" title="Swift">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/swift-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.java" title="Java">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/java-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.rs" title="Rust">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/rust-plain.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.go" title="Go">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/go-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.hs" title="Haskell">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/haskell-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.ml" title="OCaml">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/ocaml-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.scala" title="Scala">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/scala-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.kt" title="Kotlin">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/kotlin-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.jl" title="Julia">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/julia-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.ex" title="Elixir">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/elixir-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.clj" title="Clojure">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/clojure-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.erl" title="Erlang">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/erlang-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.cr" title="Crystal">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/crystal-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.elm" title="Elm">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/elm-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.hx" title="Haxe">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/haxe-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+    </tr>
+</table>
 
-## 2 -
+<table id="#i1" border="2" align="center">
+    <tr>
+        <td colspan="16" align="left"><font size="5" color="FFFFFF">1.2 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Calculation with the 4 operations (+,-,*,/)</a>:</font></td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.rb" title="Ruby">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/ruby-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.js" title="JavaScript">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/javascript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.ts" title="Typescript">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/typescript-original.svg" src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.py" title="Python">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/python-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.lua" title="Lua">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/lua-original-wordmark.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.php" title="PHP">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/php-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.dart" title="Dart">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/dart-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.gd" title="GDscript">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/godot-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.pl" title="Perl">
+                <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.asm" title="Assembly INTEL64">
+                <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.wat" title="WebAssembly">
+                <img align="center" height="50" rc="Arquives/img/svg/fontsGoogle/terminal_FILL0_wght400_GRAD0_opsz48.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.f90" title="Modern Fortran">
+                <img align="center" height="50" rc="Arquives/img/svg/wikimedia/Fortran_logo.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.c)" title="C lang">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/c-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.cpp" title="C++ lang">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/cplusplus-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.cs" title="C#">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/csharp-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.fs" title="F#">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/fsharp-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.d" title="D lang">
+                <img align="center" height="50" eight="50%" idth="60" rc="Arquives/img/svg/wikimedia/D_Programming_Language_logo.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.swift" title="Swift">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/swift-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.java" title="Java">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/java-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.rs" title="Rust">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/rust-plain.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.go" title="Go">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/go-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.hs" title="Haskell">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/haskell-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.ml" title="OCaml">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/ocaml-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.scala" title="Scala">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/scala-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.kt" title="Kotlin">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/kotlin-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.jl" title="Julia">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/julia-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.ex" title="Elixir">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/elixir-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.clj" title="Clojure">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/clojure-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.erl" title="Erlang">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/erlang-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.cr" title="Crystal">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/crystal-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.elm" title="Elm">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/elm-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+        <td align="center">
+            <a ref="Languages/1_CODE/0_Start/0_2_Comments/Comments.hx" title="Haxe">
+                <img align="center" height="50" rc="Arquives/img/svg/devicon/haxe-original.svg"  src="Arquives/img/svg/devicon/github-original.svg"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
+## 2 - Control Flow
 
 
-## 3 -
+## 3 - 
 
 
 
