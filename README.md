@@ -196,25 +196,25 @@ Este não é um guia ou curso para se aprender sua primeira linguagem de program
 
 [Click Here](Pages/English/1-Hello-World.md)
 
-## 2 - Fundamental Programming Concepts
+## 2 - Fundamental Programming Concepts:
 
 [Click Here](Pages/English/2-Fundamental.md)
 
-## 3 - Control Flow and I/O
+## 3 - Control Flow:
 
 [Click Here](Pages/English/3-Control-Flow-I-O.md)
 
-## 4 - Data Structures
+## 4 - Data Input/Output:
 
-[Click Here](Pages/English/4-Data-Structures.md)
+[Click Here](Pages/English/4-Data-Input-Output.md)
 
-## 5 - Paradigms
+## 5 - Data Structures:
 
-[Click Here](Pages/English/5-Paradigm.md)
+[Click Here](Pages/English/5-Data-Structures.md)
 
-## 6 - Data access:
+## 6 - Paradigms:
 
-[Click Here](Pages/English/6-Data-Access.md)
+[Click Here](Pages/English/6-Paradigm.md)
 
 ## 7 - General Technics:
 
@@ -224,7 +224,7 @@ Este não é um guia ou curso para se aprender sua primeira linguagem de program
 
 [Click Here](Pages/English/8-Libraries-Modules.md)
 
-## 9 - Algoritms
+## 9 - Algoritms:
 
 [Click Here](Pages/English/9-Algoritms.md)
 

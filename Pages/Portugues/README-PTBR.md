@@ -6,20 +6,31 @@
 
 # Lista comparativa de linguagens de programação
 
-# Em Construção
+# Em construção
 
-## A comparative list of scripting and compiled languages, with a simple code for beginners in 32 program languages !
+## Uma lista comparativa com 32 linguagens de programação!
 
-This project is intended to be a small "Rosetta stone", containing a code comparison of several languages.
-The idea is to work with the basics in each one, with the minimum necessary to be able to consult and get to know each language much more quickly.
+Este projeto pretende ser uma pequena “pedra de Roseta”, contendo uma comparação de códigos de diversas linguagens.
+O conceito é trabalhar com o básico de cada uma, com o mínimo necessário para poder consultar e conhecer cada linguagem muito mais facil e rapidamente.
 
-## ABOUT THE LANGUAGES:
+## Sobre este projeto:
 
-Here you can see the logo of each language, where you can click on them to get to know them better:
+Pesquisar sobre uma linguagem nova, aprender ou apenas conhecer, pode um desafio e tanto !
 
-Este não é um guia ou curso para se aprender sua primeira linguagem de programação. E sim, um guia para quem já saiba uma das linguagens contidas e queira expandir seu conhecimento. Como também, que queira aprender alguns dos conceitos aqui trazidos, ou, que simplesmente queira ver de forma rapida e pratica, a forma de programar um conceito, em várias linguagens de programação.
+Linguagens que estão em alta ficam mais fáceis, todavia aquelas que estão mais nichadas, estão literalmente espalhadas pelos 4 cantos da internet !
 
-## 0 - About:
+Visando resolver isso, surge este projeto. De um estimulo a estudar linguagens de programação, surgiu a questão de juntar tudo em um só lugar, de forma a poder comparar e acelerar o aprendizado, visto que os conceitos são iguais, mudando somente a forma de se escrever.
+
+Todavia, aqui não busca ser apenas um guia ou curso para se aprender sua primeira linguagem de programação.
+E sim, um guia para quem queira expandir seus conhecimentos em conceitos aqui trazidos, ou que simplesmente queira ver de forma rapida e pratica, a forma de programar em diferentes linguagens de programação.
+
+De forma bem direta, pode conferir o código e ver paralelo a outras linguagens, as diferentes formas de se resolver o mesmo problema.
+
+E caso não tenha sua linguagem preferida, contribua com o código que puder, deixando sua marca para o projeto e todos aqueles que poderão aprender com você !
+
+E assim, expandirá a sua mente e seu espirito !
+
+## 0 - Sobre as linguagens:
 
 <table id="id-about" border="2" align="center">
     <tr>
@@ -192,194 +203,42 @@ Este não é um guia ou curso para se aprender sua primeira linguagem de program
     </tr>
 </table>
 
-## 1 - Iniciando com Hello World:
+## 1 - Printando na tela "Olá Mundo!":
 
-[Click Here](Pages/English/0-About.md)
+[Clique Aqui](1-Hello-World.md)
 
-## 2 - Fundamental Programming Concepts
+## 2 - Conceitos Fundamentais de Programação:
 
-[Click Here](Pages/English/0-About.md)
+[Clique Aqui](2-Fundamental.md)
 
-## 3 - Control Flow and I/O
+## 3 - Controle de Fluxo:
 
-[Click Here](Pages/English/0-About.md)
+[Clique Aqui](3-Controle-Fluxo.md)
 
-## 4 - Data Structures
+## 4 - Entrada e Saída de Dados:
 
-[Click Here](Pages/English/0-About.md)
+[Clique Aqui](4-Entrada-Saida-Dados.md)
 
-<!--
-### Array
+## 5 - Estrutura de dados:
 
-### Stacks
+[Clique Aqui](5-Estrutura-de-Dados.md)
 
-### Queues
+## 6 - Paradigmas:
 
-### Lists
+[Clique Aqui](6-Paradigmas.md)
 
-### Set
+## 7 - Técnicas Gerais:
 
-### Dictionary and hashes
+[Clique Aqui](7-Tecnicas-Gerais.md)
 
-### Recursion
+## 8 - Bibliotecas e Módulos:
 
-### Trees
+[Clique Aqui](8-Bibliotecas-Modulos.md)
 
-### Graphs
--->
-## 5 - Paradigms
+## 9 - Algoritmos:
 
-[Click Here](Pages/English/0-About.md)
+[Clique Aqui](9-Algoritmos.md)
 
-<!--
-### Structured
+## 10 - Projetos:
 
-### Object Oriented
-
-### Functional
-
-### Cuncurrent
-
-### Aspect Oriented
-
-### Event Driven
-
-### Data Driven
-
-### Reactive
-
-### Choreographic
-
-### Logic
--->
-
-## 6 - Data access:
-
-[Click Here](Pages/English/0-About.md)
-
-## 7 - General Technics:
-
-[Click Here](Pages/English/0-About.md)
-<!--
-### Regular Expressions
-### Metaprogramming
-### Design Patterns
--->
-## 8 - Libraries and Modules:
-
-[Click Here](Pages/English/0-About.md)
-<!--
-### Custom language librarie
--->
-## 9 - Algoritms
-
-[Click Here](Pages/English/0-About.md)
-
-<!--
-### Sorting:
-
-#### Bubble sort
-#### Selection sort
-#### Insertion sort
-#### Merge sort
-#### Quick sort
-#### Heap sort
-#### Counting sort
-#### Bucket sort
-#### Radix sort
-#### Gnome sort
-#### Bitonic sort
-#### Cycle sort
-#### Tree sort
-#### Pigeonhole sort
-#### Block sort
-#### Library sort
-#### Patience sort
-#### Bogo sort
-#### Flash sort
-#### Tim sort
-#### Intro sort
-#### Pancake sort
-#### Stooge sort
-#### Silly sort
-#### Smooth sort
-#### Funnel sort
-#### Bead sort
-#### American flag sort
-#### Slow sort
-#### Odd even sort
-#### Splay sort
-#### Spaghetti sort
-#### Cube sort
-
-### Graphs:
-
-#### Floyd-Warshall
-#### Dijkstra
-#### Bellman-Ford
-#### Kruskal (Minimal Spanning Tree)
-#### Prim (Minimal Spanning Tree)
-#### Hierholzer (Eulerian path)
-#### A* (A Star)
-#### Ford-Fulkerson (Maximum Flow in Networks)
-
-### Strings:
-
-#### Brute Force (Substring Matching)
-#### Boyer-Moore (Substring Matching)
-#### Knuth-Morris-Pratt (Substring Matching)
-#### Rabin-Karp (Substring Matching)
-#### Levenshtein (Distance Editing)
-#### Aho-Corasick (Multiple String Search)
-
-### Randomization:
-
-#### Fisher-Yates Shuffle Algoritm
-#### Durstenfeld Shuffle Algoritm
-#### Sattolo Shuffle Algoritm
-#### Knuth Shuffle Algoritm
-#### Gilbert-Shannon-Reeds Shuffle Algoritm
-#### L'Ecuyer Shuffle Algoritm
-
-### Optimization and Heuristics:
-
-#### Genetic Algorithm
-#### Simulated Annealing (Simulated Annealing) Algorithm
-#### Hill Climbing (Hill Climb) Algorithm
-#### Simulation Annealing (SA) Algorithm
-#### Tabu Search Algorithm
-#### Particle Swarm Optimization (PSO) Algorithm
-
-### Encryption:
-
-#### AES (Advanced Encryption Standard)
-#### RSA (Rivest-Shamir-Adleman)
-#### ECC (Elliptic Curve Cryptography)
-#### Triple DES (Data Encryption Standard)
-#### DSA (Digital Signature Algorithm)
-#### IDEA (International Data Encryption Algorithm)
-
-### Hashing:
-
-#### Secure Hash Algorithm (SHA-1)
-#### Secure Hash Algorithm (SHA-512)
-#### Message Digest Algorithm (MD5)
-#### BLAKE2 Hashing Algorithm
-#### Whirlpool Hash Function
-#### Skein Hashing Algorithm
-
-### Compression:
-
-#### Huffman Coding
-#### LZW (Lempel-Ziv-Welch)
-#### BWT (Burrows-Wheeler Transform)
-#### Run-Length Encoding
-#### Delta Encoding
-#### Shannon-Fano
-
--->
-
-## 10 - Projects:
-
-[Click Here](Pages/English/10-Projects.md)
-
+[Clique Aqui](10-Projetos.md)

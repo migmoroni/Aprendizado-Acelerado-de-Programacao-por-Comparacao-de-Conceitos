@@ -1,6 +1,6 @@
-# 10 - Projects
+# 10 - Projetos
 
-## 1 - Quiz App
+## 1 - Aplicativo de Perguntas
 
 <table id="id-1P" border="2" align="center">
     <tr>
@@ -172,7 +172,7 @@
     </tr>
 </table>
 
-## 2 - Calculator
+## 2 - Calculadora
 
 <table id="id-1P" border="2" align="center">
     <tr>
@@ -344,7 +344,7 @@
     </tr>
 </table>
 
-## 3 - Tic-Tac-Toe
+## 3 - Jogo da Velha
 
 <table id="id-1P" border="2" align="center">
     <tr>
@@ -516,7 +516,7 @@
     </tr>
 </table>
 
-## 4 - Password Generation
+## 4 - Gerador de Senhas
 
 <table id="id-1P" border="2" align="center">
     <tr>
@@ -688,4 +688,6 @@
     </tr>
 </table>
 
-[Return to Menu](../../README.md)
+<br><br>
+
+### [Voltar ao Menu Principal](README-PTBR.md)

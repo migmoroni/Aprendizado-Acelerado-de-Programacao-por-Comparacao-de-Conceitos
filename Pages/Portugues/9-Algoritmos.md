@@ -100,3 +100,8 @@
 #### Run-Length Encoding
 #### Delta Encoding
 #### Shannon-Fano
+
+
+<br><br>
+
+### [Voltar ao Menu Principal](README-PTBR.md)

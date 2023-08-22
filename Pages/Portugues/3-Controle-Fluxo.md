@@ -1,9 +1,11 @@
+# 3 - Controle de Fluxo e Entrada/Saída
 
-# 3 - Control Flow and I/O
+
+## 3.1 - Estruturas de Decisão
 
 <table id="id-21" border="2" align="center">
     <tr>
-        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.1 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Decision Structures</a> :</font></td>
+        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.1 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Estruturas de Decisão</a> :</font></td>
     </tr>
     <tr>
         <td align="center">
@@ -170,10 +172,12 @@
         </td>
     </tr>
 </table>
+
+## 3.2 - Estruturas de Laço
 
 <table id="id-22" border="2" align="center">
     <tr>
-        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.2 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Loop Structures</a> :</font></td>
+        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.2 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Estruturas de Laço</a> :</font></td>
     </tr>
     <tr>
         <td align="center">
@@ -341,9 +345,11 @@
     </tr>
 </table>
 
+## 3.3 - Estruturas de Excessão
+
 <table id="id-23" border="2" align="center">
     <tr>
-        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.3 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Exceptions Structures</a> :</font></td>
+        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.3 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Estruturas de Excessão</a> :</font></td>
     </tr>
     <tr>
         <td align="center">
@@ -511,9 +517,11 @@
     </tr>
 </table>
 
+## 3.4 - Estruturas Assincronas
+
 <table id="id-23" border="2" align="center">
     <tr>
-        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.4 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Asynchronous Structures</a> :</font></td>
+        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.4 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Estruturas Assincronas</a> :</font></td>
     </tr>
     <tr>
         <td align="center">
@@ -681,9 +689,11 @@
     </tr>
 </table>
 
+## 3.5 - Estruturas de Eventos
+
 <table id="id-23" border="2" align="center">
     <tr>
-        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.5 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Event Structures</a> :</font></td>
+        <td colspan="16" align="left"><font size="5" color="FFFFFF">2.5 - <a href="Languages/1_CODE/0_Start/0_2_Comments">Estruturas de Eventos</a> :</font></td>
     </tr>
     <tr>
         <td align="center">
@@ -850,3 +860,7 @@
         </td>
     </tr>
 </table>
+
+<br><br>
+
+### [Voltar ao Menu Principal](README-PTBR.md)

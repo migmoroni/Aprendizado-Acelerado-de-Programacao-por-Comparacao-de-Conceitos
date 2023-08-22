@@ -1,10 +1,8 @@
-
-## 1 - Hello World:
-
+# 1 - Escreva na Tela "Hello World":
 
 <table id="id-01" border="2" align="center">
     <tr>
-        <td colspan="16" align="left"><font size="5" color="FFFFFF">0.1 - <a href="Languages/1_CODE/0_Start/0_1_Hello_World">Print "Hello World"</a> :</font></td>
+        <td colspan="16" align="left"><font size="5" color="FFFFFF">0.1 - <a href="Languages/1_CODE/0_Start/0_1_Hello_World">Escreva na Tela: "Hello World"</a> :</font></td>
     </tr>
     <tr>
         <td align="center">
@@ -171,3 +169,7 @@
         </td>
     </tr>
 </table>
+
+<br><br>
+
+### [Voltar ao Menu Principal](README-PTBR.md)
