@@ -1,25 +1,5 @@
-## Choice your speak language:
 
-### [Português](Pages/Portugues/README-PTBR.md)
-
-### If English, It´s here:
-
-# Programming-Languages-Comparison-List
-
-# In works
-
-## A comparative list of scripting and compiled languages, with a simple code for beginners in 32 program languages !
-
-This project is intended to be a small "Rosetta stone", containing a code comparison of several languages.
-The idea is to work with the basics in each one, with the minimum necessary to be able to consult and get to know each language much more quickly.
-
-## ABOUT This Project:
-
-Here you can see the logo of each language, where you can click on them to get to know them better:
-
-Este não é um guia ou curso para se aprender sua primeira linguagem de programação. E sim, um guia para quem já saiba uma das linguagens contidas e queira expandir seu conhecimento. Como também, que queira aprender alguns dos conceitos aqui trazidos, ou, que simplesmente queira ver de forma rapida e pratica, a forma de programar um conceito, em várias linguagens de programação.
-
-## 0 - About the languages:
+# 0 - About:
 
 <table id="id-about" border="2" align="center">
     <tr>
@@ -191,43 +171,3 @@ Este não é um guia ou curso para se aprender sua primeira linguagem de program
         </td>
     </tr>
 </table>
-
-## 1 - Start with Hello World:
-
-[Click Here](Pages/English/1-Hello-World.md)
-
-## 2 - Fundamental Programming Concepts
-
-[Click Here](Pages/English/2-Fundamental.md)
-
-## 3 - Control Flow and I/O
-
-[Click Here](Pages/English/3-Control-Flow-I-O.md)
-
-## 4 - Data Structures
-
-[Click Here](Pages/English/4-Data-Structures.md)
-
-## 5 - Paradigms
-
-[Click Here](Pages/English/5-Paradigm.md)
-
-## 6 - Data access:
-
-[Click Here](Pages/English/6-Data-Access.md)
-
-## 7 - General Technics:
-
-[Click Here](Pages/English/7-General-Technics.md)
-
-## 8 - Libraries and Modules:
-
-[Click Here](Pages/English/8-Libraries-Modules.md)
-
-## 9 - Algoritms
-
-[Click Here](Pages/English/9-Algoritms.md)
-
-## 10 - Projects:
-
-[Click Here](Pages/English/10-Projects.md)

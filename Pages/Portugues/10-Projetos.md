@@ -688,6 +688,4 @@
     </tr>
 </table>
 
-<br><br>
-
-### [Return to Menu](../../README.md)
+[Return to Menu](../../README.md)
