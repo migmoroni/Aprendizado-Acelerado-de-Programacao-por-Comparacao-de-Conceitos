@@ -1,24 +1,24 @@
 # 5 - Paradigm
 
-## Structured
+## 5.1 - Structured
 
-## Object Oriented
+## 5.2 - Object Oriented
 
-## Functional
+## 5.3 - Functional
 
-## Cuncurrent
+## 5.4 - Cuncurrent
 
-## Aspect Oriented
+## 5.5 - Aspect Oriented
 
-## Event Driven
+## 5.6 - Event Driven
 
-## Data Driven
+## 5.7 - Data Driven
 
-## Reactive
+## 5.8 - Reactive
 
-## Choreographic
+## 5.9 - Choreographic
 
-## Logic
+## 5.10 - Logic
 
 <br><br>
 

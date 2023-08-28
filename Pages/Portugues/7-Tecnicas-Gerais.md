@@ -1,18 +1,10 @@
+# 7 - Técnicas Gerais
 
+## Expressões Regulares
 
+## Metaprogramming
 
-
-
-
-
-
-
-
-
-
-
-
-
+## Padrões de projeto
 
 
 
