@@ -2,17 +2,17 @@
 <svg
    viewBox="0 0 128 128"
    version="1.1"
-   id="svg4"
-   sodipodi:docname="erlang-original.svg"
+   id="svg8"
+   sodipodi:docname="haskell-original.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs8" />
+     id="defs12" />
   <sodipodi:namedview
-     id="namedview6"
+     id="namedview10"
      pagecolor="#ffffff"
      bordercolor="#999999"
      borderopacity="1"
@@ -21,23 +21,27 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="6.4921875"
-     inkscape:cx="57.376655"
-     inkscape:cy="63.152828"
+     inkscape:cx="63.922984"
+     inkscape:cy="85.179302"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
-  <rect
-     style="fill:#cccccc;stroke:#cccccc;stroke-width:1.20511"
-     id="rect32"
-     width="125.89259"
-     height="115.84669"
-     x="1.0537056"
-     y="6.9994931" />
+     inkscape:current-layer="svg8" />
   <path
-     d="M20.7 103.9C11 93.5 5.2 79.2 5.3 62.1 5.2 47 10 34 18.2 24.1H1v79.7l19.7.1zm90.4 0c4.2-4.5 8-9.8 11.4-15.9l-19-9.5c-6.7 10.8-16.4 20.8-29.9 20.9-19.6-.1-27.3-16.9-27.3-38.5h73.3c.1-2.4.1-3.6 0-4.7.5-12.9-2.9-23.7-9.1-32.1H127v79.7l-15.9.1zM47.5 42.4c.8-9.8 8.5-16.3 17.6-16.4 9.1 0 15.7 6.6 15.9 16.4H47.5z"
-     fill="#A90533"
-     id="path2" />
+     fill="#463B63"
+     d="M0 110.2L30.1 65 0 19.9h22.6L52.7 65l-30.1 45.1H0z"
+     id="path2"
+     style="opacity:0.2" />
+  <path
+     fill="#5E5187"
+     d="M30.1 110.2L60.2 65 30.1 19.9h22.6l60.2 90.3H90.4L71.5 81.9l-18.8 28.2H30.1z"
+     id="path4"
+     style="opacity:0.2" />
+  <path
+     fill="#904F8C"
+     d="M102.9 83.8l-10-15.1H128v15.1h-25.1zM87.8 61.3l-10-15.1H128v15.1H87.8z"
+     id="path6"
+     style="opacity:0.2" />
 </svg>
