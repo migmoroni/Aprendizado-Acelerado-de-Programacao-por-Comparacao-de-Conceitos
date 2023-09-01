@@ -8,7 +8,7 @@
 
 # In works
 
-## A comparative list of scripting and compiled languages, with a simple code for beginners in 32 program languages !
+## A comparative list of scripting and compiled languages, with a simple code for beginners in 21 program languages !
 
 This project is intended to be a small "Rosetta stone", containing a code comparison of several languages.
 The idea is to work with the basics in each one, with the minimum necessary to be able to consult and get to know each language much more quickly.
