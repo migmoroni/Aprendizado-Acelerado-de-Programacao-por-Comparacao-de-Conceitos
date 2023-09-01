@@ -6,7 +6,7 @@
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a ref="" title="Ruby">
+            <a href="2-Fundamentos/Comentarios.md" title="Ruby">
                 <img align="center" height="50" src="..\..\Arquives/img/svg/devicon/ruby-original.svg"/>
             </a>
         </td>
