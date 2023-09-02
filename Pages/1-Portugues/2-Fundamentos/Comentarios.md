@@ -1,6 +1,6 @@
 # Comentários
 
-<a id="ruby"></a>
+## Ruby
 
 ```Ruby
 
@@ -70,9 +70,9 @@ Comentário
 
 
 
+## JavaScript
 
 
-<a id="javascript"></a>
 
 ```Javascript
 

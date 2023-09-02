@@ -1,12 +1,12 @@
-# 0 - Sobre:
+# 2 - Conceitos Fundamentais de Programação
 
-## Sobre as 24 Linguagens:
+## 2.1 - Comentários
 
 <table id="0-sobre" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="0-Sobre-Linguagens/Ruby.md" title="Ruby">
+            <a href="2-Fundamentos/Comentarios.md#javascript" title="Ruby">
                 <img align="center" height="50" src="..\..\Arquives/img/svg/devicon/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
@@ -133,6 +133,14 @@
         </td>
     </tr>
 </table>
+
+## 2.2 - Tipos, Variáveis e Atribuições
+
+## 2.3 - Expressões e Operadores
+
+## 2.4 - Conversões de Valores
+
+## 2.5 - Funções
 
 <br><br>
 
