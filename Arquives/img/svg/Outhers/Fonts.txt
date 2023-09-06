@@ -1,6 +1,0 @@
-Fortran - https://commons.wikimedia.org/wiki/File:Fortran_logo.svg
-
-Ada - https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg
-
-PowerShell - https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true
-

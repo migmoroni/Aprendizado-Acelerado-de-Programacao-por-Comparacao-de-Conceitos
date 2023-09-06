@@ -1,0 +1,7 @@
+Terminal - https://fonts.google.com/icons?preview.text=material%20symbols&preview.text_type=custom&icon.query=program&icon.style=Outlined
+
+Fortran - https://commons.wikimedia.org/wiki/File:Fortran_logo.svg
+
+Ada - https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg
+
+Forth and GLSL - Próprios
