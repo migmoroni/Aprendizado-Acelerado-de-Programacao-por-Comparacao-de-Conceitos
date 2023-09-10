@@ -16,8 +16,8 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://en.wikipedia.org/wiki/TypeScript" title="TypeScript">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -136,4 +136,4 @@
 
 <br><br>
 
-### [Voltar ao Menu Principal](README-PTBR.md)
+### [Voltar ao Menu Principal](../README.md)

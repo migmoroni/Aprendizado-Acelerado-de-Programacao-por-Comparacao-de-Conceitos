@@ -47,8 +47,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="https://en.wikipedia.org/wiki/TypeScript" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -181,8 +181,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -315,8 +315,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -449,8 +449,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -583,8 +583,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -717,8 +717,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -851,8 +851,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -985,8 +985,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -1119,8 +1119,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -1253,8 +1253,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -1387,8 +1387,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -1505,7 +1505,7 @@ E assim, expandirá a sua mente e espirito !
     </tr>
 </table>
 
-## 11 - [Padrões de Projeto](11/Padroes-de-Projeto.md)
+## 11 - [Padrões de Design](11/Padroes-de-Design.md)
 
 <table id="01-11" border="2" align="center">
     <tr>
@@ -1521,8 +1521,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
@@ -1655,8 +1655,8 @@ E assim, expandirá a sua mente e espirito !
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="TypeScript">
-                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">

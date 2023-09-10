@@ -13,5 +13,5 @@
 
 <br><br>
 
-### [Voltar ao Menu Principal](README-PTBR.md)
+### [Voltar ao Menu Principal](../README.md)
 
