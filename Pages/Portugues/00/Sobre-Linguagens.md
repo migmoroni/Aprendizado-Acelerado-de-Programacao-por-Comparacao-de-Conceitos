@@ -7,32 +7,32 @@
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
             <a href="00/Ruby.md" title="Ruby">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/ruby-original.svg" alt="Ruby"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/javascript-original.svg" alt="JavaScript"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/javascript-original.svg" alt="JavaScript"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/python-original.svg" alt="Python"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/python-original.svg" alt="Python"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)" title="GDscript">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/godot-original.svg" alt="GDscript"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" title="Lua">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/lua-original-wordmark.svg" alt="Lua"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/lua-original-wordmark.svg" alt="Lua"/>
             </a>
         </td>
         <td align="center">

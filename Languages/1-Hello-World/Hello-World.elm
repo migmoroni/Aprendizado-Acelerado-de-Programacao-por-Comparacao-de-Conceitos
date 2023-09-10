@@ -1,5 +1,0 @@
-PRINT "Hello, World!"
-END
-
-
-

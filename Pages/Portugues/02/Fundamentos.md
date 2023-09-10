@@ -402,7 +402,7 @@
     </tr>
 </table>
 
-## 2.4 - Conversões de Valores
+## 2.4 - Tipagem e Conversão de Valores
 
 <table id="" border="2" align="center">
     <tr>
