@@ -1,38 +1,38 @@
-# 0 - Sobre:
+# 0 - Sobre as Linguagens:
 
-## Sobre as 24 Linguagens:
+## 0.1 - Visão geral das 24 Linguagens:
 
 <table id="" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
             <a href="00/Ruby.md" title="Ruby">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/javascript-original.svg" alt="JavaScript"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/javascript-original.svg" alt="JavaScript"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/perl-original.svg" alt="Perl"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/python-original.svg" alt="Python"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/python-original.svg" alt="Python"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)" title="GDscript">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/godot-original.svg" alt="GDscript"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
             </a>
         </td>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" title="Lua">
-                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/lua-original-wordmark.svg" alt="Lua"/>
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/lua-original-wordmark.svg" alt="Lua"/>
             </a>
         </td>
         <td align="center">
@@ -133,6 +133,142 @@
         </td>
     </tr>
 </table>
+
+## 0.2 - Avaliação de Desempenho:
+
+<table id="" border="2" align="center">
+    <tr>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
+        <td align="center">
+            <a href="00/Ruby.md" title="Ruby">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/ruby-original.svg" alt="Ruby"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/javascript-original.svg" alt="JavaScript"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Perl" title="Perl">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/python-original.svg" alt="Python"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)" title="GDscript">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" title="Lua">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/lua-original-wordmark.svg" alt="Lua"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Shell_script" title="Shell Script">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/bash-original-fundo.svg" alt="Shell Script"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/PHP" title="PHP">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/php-original.svg" alt="PHP"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" title="Java">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/java-original.svg" alt="Java"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C sharp">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/csharp-original.svg" alt="C sharp"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/F_Sharp_(programming_language)" title="F sharp">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/fsharp-original.svg" alt="F sharp"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Q_Sharp" title="Q Sharp">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/qsharp-original.svg" alt="Q sharp"/>
+            </a>
+        </td>
+         <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Elixir_(programming_language)" title="Elixir">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/elixir-original.svg" alt="Elixir"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/OCaml" title="OCaml">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Haskell" title="Haskell">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/haskell-original.svg" alt="Haskell"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Crystal_(programming_language)" title="Crystal">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/crystal-original.svg" alt="Crystal"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Médio Nível</font></td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Fortran" title="Modern Fortran">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/Fortran_logo.svg" alt="Fortran"/>
+            </a>
+        </td>
+            <td align="center">
+            <a href="" title="Ada">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/Ada_horizon_green_logo_with_slogan-edit.svg" alt="Ada"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/c-original.svg" alt="C"/>
+            </a>
+        </td> 
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C plusplus">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/cplusplus-original.svg" alt="C plusplus"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" title="Rust">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/rust-plain.svg" alt="Rust"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/Forth_(programming_language)" title="Forth">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/Forth-Language-white-background.svg" alt="Forth"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/COBOL" title="Cobol">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/Cobol-Language-white-background.svg" alt="Cobol"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language" title="GLSL">
+                <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/opacity/GLSL-Language-white-background.svg" alt="GLSL"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
 
 <br><br>
 

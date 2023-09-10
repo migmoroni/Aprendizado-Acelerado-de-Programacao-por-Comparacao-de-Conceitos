@@ -1,14 +1,14 @@
 # Ruby
 
-## Sobre a Linguagem
+# 0 - Sobre as Linguagens:
+
+## 0.1 - Visão geral da Linguagem Ruby
 
 ### Aspectos
 
 ### História
 
 ### Aplicabilidades
-
-## Questões de uso
 
 ### Instalação
 
@@ -17,3 +17,9 @@
 ### Conteúdos
 
 ### Comunidades
+
+## 0.2 - Avaliação de Desempenho
+
+### Vinculado a Tempo de Conclusão de tarefas
+
+### Vinculado a Entrada e Saida

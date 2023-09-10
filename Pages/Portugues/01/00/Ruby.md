@@ -1,6 +1,8 @@
 # Ruby
 
-## 1 - Printando na tela a mensagem "Ola Mundo!"
+# 1 - Escreva na Tela "Hello World":
+
+## 1.1 - Printando na tela a mensagem "Ola Mundo!"
 
 ### Maneira 1
 

@@ -10,7 +10,7 @@
 
 ## 5 - Jogo da Velha
 
-## 6 - Jogo da força
+## 6 - Jogo da forca
 
 <br><br>
 

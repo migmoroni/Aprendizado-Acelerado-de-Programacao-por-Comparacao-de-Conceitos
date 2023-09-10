@@ -4,6 +4,8 @@
 
 ## 2.1 - Comentários
 
+Comentários em linguagens de programação são trechos de texto que não são executados pelo computador, mas desempenham um papel essencial na clareza e documentação do código. Eles são usados para explicar o propósito de partes do código, fornecer informações úteis aos programadores, facilitar a depuração de erros e, às vezes, desativar temporariamente seções do código. Comentários são uma prática fundamental para tornar o código mais compreensível, colaborativo e fácil de manter.
+
 ### Maneira 1
 
 ```Ruby
@@ -76,11 +78,19 @@ varArray = [0,1,2,3,4,5]
 
 ## 2.3 - Expressões e Operadores
 
-### Tipos
+### Maneira 1
 
 ```Ruby
 
+puts 10 + 5
 
+puts 10 - 5
+
+puts 10 * 5
+
+puts 10 / 5
+
+puts 10 % 5
 
 ```
 
