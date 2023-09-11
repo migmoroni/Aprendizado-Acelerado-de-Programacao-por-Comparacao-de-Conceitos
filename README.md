@@ -1,6 +1,6 @@
 ## Choice your speak language:
 
-### [Português](Pages/Portugues/README.md)
+### [Português](Pages/Portugues/README.md) (Better version)
 
 ### If English, It´s here:
 

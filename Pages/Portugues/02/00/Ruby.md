@@ -40,6 +40,7 @@ Permite criar um Rdoc, o qual são formatados de maneira especial para gerar doc
 # :Comentário:
 
 ```
+<br>
 
 ## 2.2 - Tipos, Variáveis e Atribuições
 
@@ -64,6 +65,7 @@ var_String = "nome"
 var_Array = [0,1,2,3,4,5]
 
 ```
+<br>
 
 ## 2.3 - Expressões e Operadores
 
@@ -87,6 +89,13 @@ puts 10 / 5
 puts 10 % 5
 
 ```
+#### Saída:
+10 <br>
+5  <br>
+50 <br>
+2  <br>
+0  <br>
+<br>
 
 #### Maneira 2
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-02-03-02.rb)
@@ -111,6 +120,7 @@ puts var_int1 / var_int2
 puts var_int1 % var_int2
 
 ```
+<br>
 
 ## 2.4 - Tipagem e Conversão de Valores
 
@@ -133,6 +143,7 @@ var_result = var_int + var_string
 puts var_result
 
 ```
+<br>
 
 #### Tipagem Dinâmica
 
@@ -153,6 +164,7 @@ var_result = var_int + var_string.to_i
 puts var_result
 
 ```
+<br>
 
 ### Converter valores para Inteiro
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-02-04-02.rb)
@@ -169,6 +181,7 @@ var_result = var_string.to_i
 puts var_result + 10
 
 ```
+<br>
 
 ### Converter valores para Float
 
@@ -187,6 +200,7 @@ var_float = var_string.to_f
 puts var_float
 
 ```
+<br>
 
 #### Maneira 2
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-02-04-03-02.rb)
@@ -204,6 +218,7 @@ var_result = var_int1 / var_int2.to_f
 puts var_result
 
 ```
+<br>
 
 ### Converter valores para String
 
@@ -222,6 +237,7 @@ var_result = 10 - var_int
 puts var_result.to_s + " restantes"
 
 ```
+<br>
 
 #### Maneira 2
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-02-04-04-02.rb)
@@ -238,6 +254,7 @@ var_result = 10 - var_int
 puts "#{var_result} restantes"
 
 ```
+<br>
 
 #### Maneira 3
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-02-04-04-03.rb)
@@ -252,6 +269,7 @@ var_int = 1
 puts "#{10 - var_int} restantes"
 
 ```
+<br>
 
 ## 2.5 - Funções
 
@@ -262,6 +280,7 @@ puts "#{10 - var_int} restantes"
 
 
 ```
+<br>
 
 <br><br>
 
