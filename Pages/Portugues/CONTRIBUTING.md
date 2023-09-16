@@ -31,4 +31,8 @@ Estrutura dos textos:
 
 Variaveis:
 
+Uso de snake case, onde no inicio sempre usa-se o termo "var" seguido de "_int" caso seja um inteiro.
+
+Aqui um exemplo:
 var_int3
+
