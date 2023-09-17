@@ -17,18 +17,3 @@
 
 
 
-```Ruby
-
-# Comentário
-
-
-=begin
-
-Comentário
-
-=end
-
-
-# :Comentário:
-
-```

@@ -1,4 +1,4 @@
-# Ruby
+# Java
 
 # 1 - Escreva na Tela "Olá Mundo!":
 
@@ -8,16 +8,16 @@ Além disso, os "Olá Mundo!" também são úteis para verificar se o ambiente d
 
 ## 1.1 - Escrevendo na tela a mensagem "Olá Mundo!"
 
-[Acesse o código](../../../../Languages/Ruby/01/Ruby-01.rb)
+[Acesse o código](../../../../Languages/Java/01/Java-01.java)
 
 #### Maneira 1
 
-O método "puts" adiciona uma nova linha após a saída, tornando-o útil para imprimir mensagens de texto formatadas ou resultados de cálculos.
+O método 
 
-```Ruby
+```Java
 
-puts "Olá Mundo!"
-puts "Olá Mundo!"
+System.out.println("Olá Mundo!");
+System.out.println("Olá Mundo!");
 
 ```
 ##### Saída:
@@ -28,28 +28,12 @@ Olá Mundo!
 
 #### Maneira 2
 
-O método "p" é usado para depuração, pois exibe o valor de uma expressão, incluindo detalhes internos, como aspas em strings e novas linhas.
+O método 
 
-```Ruby
+```Java
 
-p "Olá Mundo!"
-p "Olá Mundo!"
-
-```
-##### Saída:
-"Olá Mundo!"<br>
-"Olá Mundo!"
-
-<br>
-
-#### Maneira 3
-
-O método "print" não adiciona uma nova linha, permitindo que a saída seja impressa na mesma linha ou para formatar saídas sem quebras de linha.
-
-```Ruby
-
-print "Olá Mundo!"
-print "Olá Mundo!"
+System.out.print("Olá Mundo!");
+System.out.print("Olá Mundo!");
 
 ```
 ##### Saída:
@@ -57,17 +41,58 @@ Olá Mundo!Olá Mundo!
 
 <br>
 
-#### Maneira 4
+#### Maneira 3
 
-O método "printf" é usado para formatar a saída de acordo com um especificador de formato, semelhante à função "printf" em linguagens como C. E semelhante ao "print", não adiciona uma nova linha.
+O método 
 
-```Ruby
+```Java
 
-printf("Texto: %s, Letras: %d", "Olá Mundo", 8)
-printf("Texto: %s, Letras: %d", "Olá Mundo", 8)
+System.out.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+System.out.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
 
 ```
 ##### Saída:
+Texto: Olá Mundo, Letras: 8Texto: Olá Mundo, Letras: 8
+
+<br>
+
+#### Maneira 4
+
+O método 
+
+```Java
+
+System.console().printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+System.console().printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+
+```
+##### Saída:
+Texto: Olá Mundo, Letras: 8Texto: Olá Mundo, Letras: 8
+
+<br>
+
+#### Maneira 5
+
+O método 
+
+```Java
+
+System.err.println("Olá Mundo!");
+System.err.println("Olá Mundo!");
+
+System.err.print("Olá Mundo!");
+System.err.print("Olá Mundo!");
+
+System.err.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+System.err.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+
+```
+##### Saída:
+Olá Mundo!<br>
+Olá Mundo!
+
+Olá Mundo!Olá Mundo!
+
 Texto: Olá Mundo, Letras: 8Texto: Olá Mundo, Letras: 8
 
 <br>
@@ -78,8 +103,8 @@ Existe uma forma de quebrar linha nos exemplos acima, com o uso do termo "\n".
 
 ```Ruby
 
-print "Olá Mundo!\n"
-print "Olá Mundo!\n"
+System.out.print("Olá Mundo!\n");
+System.out.print("Olá Mundo!\n");
 
 ```
 ##### Saída:
