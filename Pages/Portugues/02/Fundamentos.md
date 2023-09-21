@@ -134,7 +134,7 @@
     </tr>
 </table>
 
-## 2.2 - Tipos, Variáveis e Atribuições
+## 2.2 - Tipos, Variáveis e Atribuições Simples
 
 <table id="" border="2" align="center">
     <tr>
@@ -268,7 +268,7 @@
     </tr>
 </table>
 
-## 2.3 - Expressões e Operadores
+## 2.3 - Operadores
 
 <table id="" border="2" align="center">
     <tr>

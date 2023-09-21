@@ -43,7 +43,7 @@ Permite criar um Rdoc, o qual são formatados de maneira especial para gerar doc
 ```
 <br>
 
-## 2.2 - Tipos, Variáveis e Atribuições
+## 2.2 - Tipos, Variáveis e Atribuições simples
 
 Tipos referem-se às categorias de dados, como inteiros, strings ou booleanos, determinando como os valores são armazenados e manipulados.
 
@@ -51,7 +51,7 @@ Variáveis são contêineres que mantêm valores desses tipos, permitindo aos pr
 
 Atribuições são ações que associam um valor a uma variável, possibilitando o armazenamento de dados e a execução de cálculos, facilitando o controle e a manipulação das informações dentro de um programa.
 
-Os tipos de dados em Ruby são inferidos automaticamente pelo interpretador. No entanto, existem alguns tipos básicos em Ruby:
+Os tipos de dados em Ruby são inferidos automaticamente pelo interpretador. No entanto, existem alguns tipos básicos em Ruby, onde abaixo pode-se ve-los, com a atribuição simples de tipos de valores esperados:
 
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-02.rb)
 
@@ -133,68 +133,242 @@ puts var_result
 
 <br>
 
-## 2.3 - Expressões e Operadores
+## 2.3 - Operadores
 
-#### Maneira 1
+### Duas maneiras de operar
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-03-01.rb)
 
 ```Ruby
 
-#Soma
-puts 10 + 5
-
-#Subtração
-puts 10 - 5
-
-#Multiplicação
-puts 10 * 5
-
-#Divisão, obtendo o divisor
-puts 10 / 5
-
-#Divisão, obtendo o resto
-puts 10 % 5
-
-```
-##### Saída:
-10 <br>
-5  <br>
-50 <br>
-2  <br>
-0  <br>
-<br>
-
-#### Maneira 2
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-02.rb)
-
-```Ruby
-
-var_int1 = 10
-var_int2 = 5
+var_int1 = 10.0
+var_int2 = 3
 
 #Soma
 puts var_int1 + var_int2
 
-#Subtração
-puts var_int1 - var_int2
+#Soma
+puts 10 + 3
 
-#Multiplicação
-puts var_int1 * var_int2
 
-#Divisão, obtendo o divisor
-puts var_int1 / var_int2
-
-#Divisão, obtendo o resto
-puts var_int1 % var_int2
 
 ```
 ##### Saída:
-10 <br>
-5  <br>
-50 <br>
-2  <br>
-0  <br>
+13.0 <br>
+13.0 <br>
 <br>
+
+### Operadores Aritméticos
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-02.rb)
+
+```Ruby
+
+#Soma
+puts 10.0 + 3
+
+#Subtração
+puts 10.0 - 3
+
+#Multiplicação
+puts 10.0 * 3
+
+#Divisão, obtendo o divisor da divisão
+puts 10.0 / 3
+
+#Divisão, obtendo apenas a parte inteira do divisor
+puts 10.0.div(3)
+
+#Módulo, obtendo o resto da divisão
+puts 10.0 % 3
+
+#Exponenciação
+puts 10.0 ** 3
+
+#Arredondamento
+puts (3.3333333333333335).round
+
+#Valor absoluto
+puts (-3).abs
+
+```
+##### Saída:
+13.0 <br>
+7.0  <br>
+30.0 <br>
+3.3333333333333335  <br>
+3  <br>
+1.0  <br>
+1000.0  <br>
+3  <br>
+3  <br>
+<br>
+
+### Operadores de Atribuição
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-03.rb)
+
+```Ruby
+
+#Soma
+var_int = 10.0
+puts var_int += 3
+
+#Subtração
+var_int = 10.0
+puts var_int -= 3
+
+#Multiplicação
+var_int = 10.0
+puts var_int *= 3
+
+#Divisão, obtendo o divisor da divisão
+var_int = 10.0
+puts var_int /= 3
+
+#Módulo, obtendo o resto da divisão
+var_int = 10.0
+puts var_int %= 3
+
+#Exponenciação
+var_int = 10.0
+puts var_int **= 3
+
+```
+##### Saída:
+13.0 <br>
+7.0  <br>
+30.0 <br>
+3.3333333333333335  <br>
+1.0  <br>
+1000.0  <br>
+<br>
+
+### Operadores de Comparação
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-04.rb)
+
+```Ruby
+
+#Igual a
+puts 10 == 3
+
+#Diferente de
+puts 10 != 3
+
+#Menor que
+puts 10 < 3
+
+#Maior que
+puts 10 > 3
+
+#Menor ou igual a
+puts 10 <= 3
+
+#Maior ou igual a
+puts 10 >= 3
+
+#Comparação de valores -> Retorna -1 se a primeira for menor, 0 se forem iguais e 1 se a primeira for maior.
+puts "aa" <=> "ab", 3 <=> 10 
+
+puts "aa" <=> "aa", 3 <=> 3 
+
+puts "ab" <=> "aa", 10 <=> 3
+
+```
+##### Saída:
+false <br>
+true <br>
+false <br>
+true <br>
+false <br>
+true <br>
+-1 <br>
+-1 <br>
+0 <br>
+0 <br>
+1 <br>
+1 <br>
+<br>
+
+### Operadores Lógicos
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05.rb)
+
+```Ruby
+
+#e
+puts true && true, true && false, false && true, false && false
+
+#ou
+puts true || true, true || false, false || true, false || false
+
+#não
+puts !true, !false
+
+#e (Curto-circuito)
+puts (true and true), (true and false), (false and true), (false and false)
+
+#ou (Curto-circuito)
+puts (true or true), (true or false), (false or true), (false or false)
+
+#não (Curto-circuito)
+puts (not true), (not false)
+
+#e (Bit a Bit)
+puts (10 & 3)
+#1010 & 0011 = 0010
+
+#ou (Bit a Bit)
+puts (10 | 3)
+#1010 | 0011 = 1011
+
+#não (Bit a Bit) - Positivo
+puts (~ 10), (~ 3)
+#0 1010 (10) -> 1 0101 (-11)
+#0 0011 (3) -> 1 1100 (-4)
+
+#não (Bit a Bit) - Negativo
+puts (~ -10), (~ -3)
+#1 0110 (-10) -> 0 1001 (9)
+#1 1101 (-3) -> 0 0010 (2)
+
+```
+##### Saída:
+true
+false
+false
+false
+
+true
+true
+true
+false
+
+false
+true
+
+true
+false
+false
+false
+
+true
+true
+true
+false
+
+false
+true
+
+2
+
+11
+
+-11
+-4
+
+9
+2
 
 ## 2.4 - Conversão de Valores
 
@@ -302,7 +476,7 @@ Um Jabuti pode viver mais do que 50 anos!
 
 ### Interpolação
 
-#### Maneira 1
+#### Maneira 1 - Simples
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-01.rb)
 
 ```Ruby
@@ -315,12 +489,12 @@ puts "Um #{var_string} pode viver mais do que #{var_int} anos!"
 
 ```
 ##### Saída:
-Um Jabuti
+Um Jabuti<br>
 Um Jabuti pode viver mais do que 50 anos!
 
 <br>
 
-#### Maneira 2
+#### Maneira 2 - Com expressões
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-02.rb)
 
 ```Ruby
@@ -330,11 +504,31 @@ var_int = 50
 
 puts "Um #{var_string}"
 puts "Um #{var_string} pode viver mais do que #{var_int} anos!"
+puts "Já alguns poucos #{var_string}s pode viver mais do que #{var_int + 70} anos!"
 
 ```
 ##### Saída:
-Um Jabuti
-Um Jabuti pode viver mais do que 50 anos!
+Um Jabuti<br>
+Um Jabuti pode viver mais do que 50 anos!<br>
+Já alguns poucos Jabutis podem viver mais do que 120 anos!
+
+<br>
+
+#### Maneira 3 - Com bloco
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-03.rb)
+
+```Ruby
+
+var_array = ["Jabuti", "Cágado", "Tartaruga"]
+
+puts "Um #{var_array}"
+puts "Nomes: #{var_array.map{ |nome| nome.upcase }.join(", ")}"
+
+```
+##### Saída:
+Um Jabuti<br>
+Um Jabuti pode viver mais do que 50 anos!<br>
+Já alguns poucos Jabutis podem viver mais do que 120 anos!
 
 <br>
 
@@ -353,7 +547,7 @@ printf("Um %s pode viver mais do que %d anos!", var_string, var_int)
 
 ```
 ##### Saída:
-Um Jabuti
+Um Jabuti<br>
 Um Jabuti pode viver mais do que 50 anos!
 
 <br>
@@ -371,7 +565,7 @@ puts "Um %s pode viver mais do que %d anos!" % [var_string, var_int]
 
 ```
 ##### Saída:
-Um Jabuti
+Um Jabuti<br>
 Um Jabuti pode viver mais do que 50 anos!
 
 <br>

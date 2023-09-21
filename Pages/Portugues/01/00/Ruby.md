@@ -8,6 +8,7 @@ Além disso, os "Olá Mundo!" também são úteis para verificar se o ambiente d
 
 ## 1.1 - Escrevendo na tela a mensagem "Olá Mundo!"
 
+### Métodos para printar na tela
 [Acesse o código](../../../../Languages/Ruby/01/Ruby-01.rb)
 
 #### Maneira 1
@@ -72,9 +73,24 @@ Texto: Olá Mundo, Letras: 8Texto: Olá Mundo, Letras: 8
 
 <br>
 
-### Dica útil:
+### Otimizando linhas de código
 
-Existe uma forma de quebrar linha nos exemplos acima, com o uso do termo "\n".
+Em vez de usar estes métodos para cada linha que se busca printar, é permitindo utilizar a "," após cada sentença:
+
+```Ruby
+
+puts "Olá Mundo!", "Olá Mundo!"
+
+```
+##### Saída:
+Olá Mundo!<br>
+Olá Mundo!
+
+<br>
+
+### Pulando linha
+
+Existe uma forma de quebrar linha nos exemplos acima, com a expressão regular "\n".
 
 ```Ruby
 
