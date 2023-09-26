@@ -6,7 +6,7 @@
 
 Comentários em linguagens de programação são trechos de texto que não são executados pelo computador, mas desempenham um papel essencial na clareza e documentação do código. Eles são usados para explicar o propósito de partes do código, fornecer informações úteis aos programadores, facilitar a depuração de erros e, às vezes, desativar temporariamente seções do código. Comentários são uma prática fundamental para tornar o código mais compreensível, colaborativo e fácil de manter.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-01-00-00.rb)
 
 #### Maneira 1
 
@@ -53,7 +53,7 @@ Atribuições são ações que associam um valor a uma variável, possibilitando
 
 Os tipos de dados em Ruby são inferidos automaticamente pelo interpretador. No entanto, existem alguns tipos básicos em Ruby, onde abaixo pode-se ve-los, com a atribuição simples de tipos de valores esperados:
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-02.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-02-00-00.rb)
 
 ```Ruby
 
@@ -71,7 +71,7 @@ var_range = 1..5
 
 var_array = [0,1,2,3,4,5]
 
-var_hash = {"nome" => "João", "idade" => 30}
+var_hash = {"nome" => "Jabuti", "idade" => 50}
 
 var_symbol = :symbol
 
@@ -86,7 +86,7 @@ var_classe = String
 
 A "tipagem forte" significa que a linguagem impõe regras rígidas para a conversão de tipos, garantindo que as operações sejam realizadas apenas entre tipos compatíveis, o que pode ajudar a prevenir erros de tipo durante a execução do programa.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-01-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-02-01-00.rb)
 
 ```Ruby
 #Atribui-se o tipo inteiro
@@ -110,7 +110,7 @@ Erro de Tipos. Não se pode somar Inteiro com String
 
 Por outro lado, a "tipagem dinâmica" permite que os tipos de dados sejam determinados em tempo de execução, o que dá mais flexibilidade ao código.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-01-02.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-02-01-01.rb)
 
 ```Ruby
 #Atribui-se o tipo inteiro
@@ -136,20 +136,18 @@ puts var_result
 ## 2.3 - Operadores
 
 ### Duas maneiras de operar
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-00-00.rb)
 
 ```Ruby
 
 var_int1 = 10.0
 var_int2 = 3
 
-#Soma
+#Soma com variaveis
 puts var_int1 + var_int2
 
-#Soma
+#Soma direta
 puts 10 + 3
-
-
 
 ```
 ##### Saída:
@@ -159,7 +157,7 @@ puts 10 + 3
 
 ### Operadores Aritméticos
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-02.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-01-00.rb)
 
 ```Ruby
 
@@ -205,7 +203,7 @@ puts (-3).abs
 
 ### Operadores de Atribuição
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-03.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-02-00.rb)
 
 ```Ruby
 
@@ -245,7 +243,7 @@ puts var_int **= 3
 
 ### Operadores de Comparação
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-04.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-03-00.rb)
 
 ```Ruby
 
@@ -267,12 +265,8 @@ puts 10 <= 3
 #Maior ou igual a
 puts 10 >= 3
 
-#Comparação de valores -> Retorna -1 se a primeira for menor, 0 se forem iguais e 1 se a primeira for maior.
-puts "aa" <=> "ab", 3 <=> 10 
-
-puts "aa" <=> "aa", 3 <=> 3 
-
-puts "ab" <=> "aa", 10 <=> 3
+#Está contido
+p (var_range = 1..5) === 2
 
 ```
 ##### Saída:
@@ -282,6 +276,23 @@ false <br>
 true <br>
 false <br>
 true <br>
+true <br>
+<br>
+
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-03-01.rb)
+
+```Ruby
+
+#Comparação de valores -> Retorna -1 se a primeira for menor, 0 se forem iguais e 1 se a primeira for maior.
+puts ("aa" <=> "ab"), (3 <=> 10)
+
+puts ("aa" <=> "aa"), (3 <=> 3)
+
+puts ("ab" <=> "aa"), (10 <=> 3)
+
+```
+##### Saída:
 -1 <br>
 -1 <br>
 0 <br>
@@ -290,9 +301,29 @@ true <br>
 1 <br>
 <br>
 
+### Operador de Intervalo
+
+São utilizados para criar sequências de valores com base em um início, fim e, em alguns casos, um incremento. Existem dois principais operadores de intervalo em Ruby.
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-04-00.rb)
+
+```Ruby
+
+var_range1 = 1..5 #Imprime de 1 a 5
+
+var_range2 = 1...5 #Imprime de 1 a 4
+
+#Para visualização, é necessário usar o método to_a, para conversão do valor
+p var_range1.to_a
+p var_range2.to_a
+
+```
+
 ### Operadores Lógicos
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05.rb)
+#### Lógico de alta precedência
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05-00.rb)
 
 ```Ruby
 
@@ -305,14 +336,93 @@ puts true || true, true || false, false || true, false || false
 #não
 puts !true, !false
 
-#e (Curto-circuito)
+```
+##### Saída:
+true <br>
+false <br>
+false <br>
+false <br>
+<br>
+true <br>
+true <br>
+true <br>
+false <br>
+<br>
+false <br>
+true <br>
+
+<br>
+
+#### Lógico de baixa precedência ou Lógico Curto-Circuito
+
+Os operadores "and", "or" e "not", possuem a mesma ação dos operadores anteriores, respectivamente "&&", "||" e "!", todavia com menor precedência, havendo necessidade do uso de parenteses para não ocasionar em imprecisão da operação.
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05-01.rb)
+
+```Ruby
+
+#e
 puts (true and true), (true and false), (false and true), (false and false)
 
-#ou (Curto-circuito)
+#ou
 puts (true or true), (true or false), (false or true), (false or false)
 
-#não (Curto-circuito)
+#não
 puts (not true), (not false)
+
+```
+##### Saída:
+true <br>
+false <br>
+false <br>
+false <br>
+<br>
+true <br>
+true <br>
+true <br>
+false <br>
+<br>
+false <br>
+true <br>
+
+<br>
+
+Todavia, por haver menos precedência, pode ocorrer eventos não tão esperados, mas também, auxiliar em realizar ações de comparação mais complexas, o qual podem ser necessárias a depender da necessidade.
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05-02.rb)
+
+```Ruby
+
+#Se não utilizar parenteses, o método puts passa a ter maior precedencia, printando o primeiro termo "true". Os parenteses resolvem este problema, obtendo o valor "false".
+puts true and false
+puts (true and false)
+
+puts (true and true) and false
+puts (true and true and false)
+
+#Precedencia do || é maior que o próprio puts, retornando "true". Todavia, não ocorre comparação and, pois é menor que puts, com este logo imprimindo "true".
+puts false || true and false
+#Um simples parenteses resolve o problema
+puts (false || true and false)
+
+```
+##### Saída:
+true <br>
+false <br>
+<br>
+true <br>
+false <br>
+<br>
+true <br>
+false <br>
+
+<br>
+
+#### Lógico Bit a Bit
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05-03.rb)
+
+```Ruby
 
 #e (Bit a Bit)
 puts (10 & 3)
@@ -334,48 +444,99 @@ puts (~ -10), (~ -3)
 
 ```
 ##### Saída:
-true
-false
-false
-false
+2 <br>
+11 <br>
+-11 <br>
+-4 <br>
+9 <br>
+2 <br>
 
-true
-true
-true
-false
+<br>
 
-false
-true
+### Operadores de deslocamento
 
-true
-false
-false
-false
+#### Operador (<<)
 
-true
-true
-true
-false
+Este operador é usado para manipular strings e arrays, como também realizar operações de deslocamento de bits a esquerda.
 
-false
-true
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-06-00.rb)
 
-2
+```Ruby
 
-11
+var_string = "Olá, "
+var_string << "mundo!"
+p var_string
 
--11
--4
+var_array = [1, 2, 3]
+var_array << 4
+p var_array
 
-9
-2
+var_int = 2
+p var_int << 3
+
+```
+##### Saída:
+"Olá, mundo!" <br>
+[1, 2, 3, 4] <br>
+16 <br>
+<br>
+
+#### Operador (>>)
+
+Em suma, é usado para deslocar bits à direita em números inteiros.
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-06-01.rb)
+
+```Ruby
+
+var_int = 16
+p var_int >> 2
+
+```
+##### Saída:
+4 <br>
+<br>
+
+### Ordem de Precedencia dos Operadores
+
+Por fim, como vimos diferentes precedencias nos exemplos acima, aqui ficará claro a ordem geral dos operadores que foram apresentados anteriormente:
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-07-00.rb)
+
+```Ruby
+#1 - Parenteses
+
+#2 - Operadores unários (-, +, !, ~)
+
+#3 - Operadores de exponenciação (**)
+
+#4 - Operadores de multiplicação, divisão e módulo (*, /, %)
+
+#5 - Operadores de adição e subtração (+, -)
+
+#6 - Operadores de deslocamento (<<, >>)
+
+#7 - Operadores de comparação (<, >, <=, >=, ==, !=, ===, <=>)
+
+#8 - Operadores lógicos de alta precedencia (&&, ||, !)
+
+#9 - Operadores lógicos de baixa precedencia (and, or, not)
+
+#10 - Operadores de atribuição (=, +=, -=, *=, /=, %=, **=)
+
+#11 - Operadores de intervalo (.., ...)
+
+#12 - Operador de índice "[]" e acesso a propriedades "[] e {}"
+
+```
 
 ## 2.4 - Conversão de Valores
 
 Conversão de valores refere-se à transformação de um tipo de dado em outro. Isso é útil para adequar dados a contextos específicos, realizar operações com tipos compatíveis e garantir que as informações sejam processadas corretamente.
 
 ### Converter valores para Inteiro
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-02.rb)
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-00-00.rb)
 
 ```Ruby
 
@@ -396,7 +557,8 @@ puts var_result + 10
 ### Converter valores para Float
 
 #### Maneira 1
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-03-01.rb)
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-01-00.rb)
 
 ```Ruby
 
@@ -415,7 +577,8 @@ puts var_float
 <br>
 
 #### Maneira 2
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-03-02.rb)
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-01-01.rb)
 
 ```Ruby
 
@@ -425,7 +588,7 @@ var_int2 = 3
 
 #Usando metodo to_f, na última variavel, para converter inteiro em float
 var_result = var_int1 / var_int2.to_f
- 
+
 puts var_result
 
 ```
@@ -436,7 +599,7 @@ puts var_result
 
 ### Converter valores para String
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-04-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-02-00.rb)
 
 ```Ruby
 
@@ -455,11 +618,37 @@ puts var_result.to_s + " restantes"
 
 <br>
 
+### Converter valores para Array
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-03-00.rb)
+
+```Ruby
+
+#Converte o objeto var_range em um array
+var_range = 1..5
+p var_array1 = var_range.to_a
+
+#Converte o hash var_hash em um array
+var_hash = {"nome" => "Jabuti", "idade" => 50}
+p var_array2 = var_hash.to_a
+
+#Converte cada algorismo do inteiro var_int em um array
+var_int = 124816
+p var_array3 = var_int.to_s.chars.map(&:to_i)
+
+```
+##### Saída:
+[1, 2, 3, 4, 5] <br>
+[["nome", "Jabuti"], ["idade", 50]] <br>
+[1, 2, 4, 8, 1, 6] <br>
+
+<br>
+
 ## 2.5 - Formatação de texto
 
 ### Concatenação
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-00-00.rb)
 
 ```Ruby
 
@@ -471,13 +660,15 @@ puts "Um " + var_string + " pode viver mais do que " + var_int + " anos!"
 
 ```
 ##### Saída:
-Um Jabuti
-Um Jabuti pode viver mais do que 50 anos!
+Um Jabuti<br>
+Um Jabuti pode viver mais do que 50 anos!<br>
+
+<br>
 
 ### Interpolação
 
 #### Maneira 1 - Simples
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-00.rb)
 
 ```Ruby
 
@@ -490,12 +681,12 @@ puts "Um #{var_string} pode viver mais do que #{var_int} anos!"
 ```
 ##### Saída:
 Um Jabuti<br>
-Um Jabuti pode viver mais do que 50 anos!
+Um Jabuti pode viver mais do que 50 anos!<br>
 
 <br>
 
 #### Maneira 2 - Com expressões
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-02.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-01.rb)
 
 ```Ruby
 
@@ -515,7 +706,7 @@ Já alguns poucos Jabutis podem viver mais do que 120 anos!
 <br>
 
 #### Maneira 3 - Com bloco
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-03.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-02.rb)
 
 ```Ruby
 
@@ -535,7 +726,7 @@ Já alguns poucos Jabutis podem viver mais do que 120 anos!
 ### Formatação direta
 
 #### Maneira 1
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-03-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-00.rb)
 
 ```Ruby
 
@@ -547,13 +738,12 @@ printf("Um %s pode viver mais do que %d anos!", var_string, var_int)
 
 ```
 ##### Saída:
-Um Jabuti<br>
-Um Jabuti pode viver mais do que 50 anos!
+Um JabutiUm Jabuti pode viver mais do que 50 anos!<br>
 
 <br>
 
 #### Maneira 2
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-03-02.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-01.rb)
 
 ```Ruby
 
@@ -566,7 +756,7 @@ puts "Um %s pode viver mais do que %d anos!" % [var_string, var_int]
 ```
 ##### Saída:
 Um Jabuti<br>
-Um Jabuti pode viver mais do que 50 anos!
+Um Jabuti pode viver mais do que 50 anos!<br>
 
 <br>
 
@@ -578,34 +768,55 @@ As funções são usadas para modularizar o código, tornando-o mais organizado,
 ### Função Simples
 
 ```Ruby
-def funcao(func_var_string)
 
-puts "Olá, #{func_var_string}!"
-
+def salutation(func_var_string)
+  puts "Olá, #{nome}!"
 end
 
-funcao("Mundo")
-funcao("Jabuti")
+salutation("Mundo")
+salutation("Jabuti")
 
 ```
 ##### Saída:
-Olá, Mundo!
-Olá, Jabuti!
+Olá, Mundo! <br>
+Olá, Jabuti! <br>
+
 <br>
 
 ### Função com Retorno
 
 ```Ruby
 
+def salutation(func_var_string1, func_var_string2)
+  return func_var_string1 + func_var_string2
+end
+
+puts var_result = salutation("Olá, ", "Mundo!")
 
 ```
+##### Saída:
+8 <br>
+
+<br>
 
 ### Função com Valores Padrão
 
 ```Ruby
 
+def salutation(func_var_string = "Mundo")
+  puts "Olá, #{func_var_string}!"
+end
+
+salutation
+salutation("Jabuti")
 
 ```
+##### Saída:
+Olá, Mundo! <br>
+Olá, Jabuti! <br>
+
+<br>
+
 
 <br><br>
 
