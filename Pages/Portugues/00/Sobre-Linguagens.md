@@ -1,12 +1,14 @@
 # 0 - Sobre as Linguagens:
 
-## 0.1 - Visão geral das 24 Linguagens:
+## 0.1 - Visão geral das 24 Linguagens
+
+Cada íncone das linguagens aqui representadas possui um link para sua página específica na wikipedia (em inglês), o qual já fornece ampla explicação sobre sua história, caracteristicas e sintaxe básica.
 
 <table id="" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="00/Ruby.md" title="Ruby">
+            <a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)" title="Ruby">
                 <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
@@ -134,7 +136,9 @@
     </tr>
 </table>
 
-## 0.2 - Avaliação de Desempenho:
+## 0.2 - Avaliação de Desempenho (em breve)
+
+
 
 <table id="" border="2" align="center">
     <tr>

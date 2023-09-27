@@ -668,6 +668,7 @@ Um Jabuti pode viver mais do que 50 anos!<br>
 ### Interpolação
 
 #### Maneira 1 - Simples
+
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-00.rb)
 
 ```Ruby
@@ -686,6 +687,7 @@ Um Jabuti pode viver mais do que 50 anos!<br>
 <br>
 
 #### Maneira 2 - Com expressões
+
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-01.rb)
 
 ```Ruby
@@ -706,6 +708,7 @@ Já alguns poucos Jabutis podem viver mais do que 120 anos!
 <br>
 
 #### Maneira 3 - Com bloco
+
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-02.rb)
 
 ```Ruby
@@ -726,6 +729,7 @@ Já alguns poucos Jabutis podem viver mais do que 120 anos!
 ### Formatação direta
 
 #### Maneira 1
+
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-00.rb)
 
 ```Ruby
@@ -743,6 +747,7 @@ Um JabutiUm Jabuti pode viver mais do que 50 anos!<br>
 <br>
 
 #### Maneira 2
+
 [Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-01.rb)
 
 ```Ruby
@@ -760,62 +765,126 @@ Um Jabuti pode viver mais do que 50 anos!<br>
 
 <br>
 
-## 2.6 - Funções
+## 2.6 - Funções básicas
 
 Funções são blocos de código reutilizáveis que realizam uma tarefa específica.
 As funções são usadas para modularizar o código, tornando-o mais organizado, legível e fácil de manter, uma vez que permitem que partes do programa sejam isoladas e reutilizadas em diferentes partes do código, promovendo a eficiência e a reutilização de lógica.
 
-### Função Simples
+Existem vários tipos de funções, onde neste primeiro momento, é apresentado de forma sucinta 3 das formas mais básicas, utilizando de 5 formas diferentes de expressar as mesmas.
+
+### Função sem Retorno
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-06-00-00.rb)
 
 ```Ruby
 
+#Usando métodos
 def salutation(func_var_string)
-  puts "Olá, #{nome}!"
+  puts "Olá, #{func_var_string}!"
 end
 
 salutation("Mundo")
-salutation("Jabuti")
+
+#Usando procs
+salutation = Proc.new do |func_var_string| puts "Olá, #{func_var_string}!" end
+salutation.call("Mundo")
+
+#Usando procs (simplificado)
+salutation = Proc.new {|func_var_string| puts "Olá, #{func_var_string}!"}
+salutation.call("Mundo")
+
+#Usando lambdas
+salutation = lambda {|func_var_string| puts "Olá, #{func_var_string}!"}
+salutation.call("Mundo")
+
+#Usando funções anônimas (lambda simplificado)
+salutation = -> (func_var_string) {puts "Olá, #{func_var_string}!"}
+salutation.call("Mundo")
 
 ```
-##### Saída:
+##### Saída (Igual a todos):
 Olá, Mundo! <br>
-Olá, Jabuti! <br>
 
 <br>
 
 ### Função com Retorno
 
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-06-01-00.rb)
+
 ```Ruby
 
+#Usando métodos
 def salutation(func_var_string1, func_var_string2)
   return func_var_string1 + func_var_string2
 end
 
-puts var_result = salutation("Olá, ", "Mundo!")
+puts salutation("Olá, ", "Mundo!")
+
+#Usando procs
+salutation = Proc.new do |func_var_string1, func_var_string2| func_var_string1 + func_var_string2 end
+puts salutation.call("Olá, ", "Mundo!")
+
+#Usando procs (simplificado)
+salutation = Proc.new {|func_var_string1, func_var_string2| func_var_string1 + func_var_string2}
+puts salutation.call("Olá, ", "Mundo!")
+
+#Usando lambdas
+salutation = lambda {|func_var_string1, func_var_string2| func_var_string1 + func_var_string2}
+puts salutation.call("Olá, ", "Mundo!")
+
+#Usando funções anônimas (lambda simplificado)
+salutation = -> (func_var_string1, func_var_string2) {func_var_string1 + func_var_string2}
+puts salutation.call("Olá, ", "Mundo!")
 
 ```
 ##### Saída:
-8 <br>
+Olá, Mundo! <br>
 
 <br>
 
 ### Função com Valores Padrão
 
+[Acesse o código](../../../../Languages/Ruby/02/Ruby-06-02-00.rb)
+
 ```Ruby
 
+#Usando métodos
 def salutation(func_var_string = "Mundo")
   puts "Olá, #{func_var_string}!"
 end
 
 salutation
-salutation("Jabuti")
+salutation("Amigo")
+
+#Usando procs
+salutation = Proc.new do |func_var_string = "Mundo"| "Olá, #{func_var_string}!" end
+puts salutation.call
+puts salutation.call("Amigo")
+
+#Usando procs (simplificado)
+salutation = Proc.new {|func_var_string = "Mundo"| "Olá, #{func_var_string}!"}
+puts salutation.call
+puts salutation.call("Amigo")
+
+#Usando lambdas
+salutation = lambda {|func_var_string = "Mundo"| "Olá, #{func_var_string}!"}
+puts salutation.call
+puts salutation.call("Amigo")
+
+#Usando funções anônimas (lambda simplificado)
+salutation = -> (func_var_string = "Mundo") {"Olá, #{func_var_string}!"}
+puts salutation.call
+puts salutation.call("Amigo")
 
 ```
 ##### Saída:
 Olá, Mundo! <br>
-Olá, Jabuti! <br>
+Olá, Amigo! <br>
 
 <br>
+
+## Conclusão
+
 
 
 <br><br>

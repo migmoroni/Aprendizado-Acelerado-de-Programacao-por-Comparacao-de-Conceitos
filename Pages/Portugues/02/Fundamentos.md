@@ -140,7 +140,7 @@
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="00/Ruby.md#22---tipos-variáveis-e-atribuições" title="Ruby">
+            <a href="00/Ruby.md#22---tipos-variáveis-e-atribuições-simples" title="Ruby">
                 <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
@@ -274,7 +274,7 @@
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="00/Ruby.md#23---expressões-e-operadores" title="Ruby">
+            <a href="00/Ruby.md#23---operadores" title="Ruby">
                 <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
@@ -408,7 +408,7 @@
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="00/Ruby.md#24---conversões-de-valores" title="Ruby">
+            <a href="00/Ruby.md#24---conversão-de-valores" title="Ruby">
                 <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
@@ -670,13 +670,13 @@
     </tr>
 </table>
 
-## 2.6 - Funções
+## 2.6 - Funções Básicas
 
 <table id="" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="00/Ruby.md#26---funções" title="Ruby">
+            <a href="00/Ruby.md#26---funções-básicas" title="Ruby">
                 <img align="center" height="50" src="..\..\..\Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
@@ -803,6 +803,7 @@
         </td>
     </tr>
 </table>
+
 
 <br><br>
 

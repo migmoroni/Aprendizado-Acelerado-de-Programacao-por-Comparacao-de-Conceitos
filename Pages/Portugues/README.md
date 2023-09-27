@@ -433,7 +433,7 @@ E assim, expandirá a sua mente e espirito !
     </tr>
 </table>
 
-## 3 - [Estruturas de Controle](03/Estruturas-de-Controle.md)
+## 3 - [Estruturas de Fluxo](03/Estruturas-de-Fluxo.md)
 
 <table id="01-03" border="2" align="center">
     <tr>

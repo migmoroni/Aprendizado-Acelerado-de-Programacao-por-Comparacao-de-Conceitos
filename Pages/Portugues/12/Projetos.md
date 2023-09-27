@@ -1,16 +1,32 @@
-# 10 - Projetos
+# 12 - Projetos
 
-## 1 - Calculadora
+## 12.1 - Aplicação de Conceitos
 
-## 2 - Gerador de Senhas
+### 1 - Fundamentos
 
-## 3 - Conversor de Moedas
+### 2 - Estruturas de Fluxo
 
-## 4 - Aplicativo de Quiz
+### 3 - Entrada e Saída de Dados
 
-## 5 - Jogo da Velha
+### 4 - Estrutura de Dados
 
-## 6 - Jogo da forca
+### 5 - Paradigmas
+
+## 12.2 - Resolução de Problemas
+
+### 1 - Calculadora
+
+### 2 - Gerador de Senhas
+
+### 3 - Conversor de Moedas
+
+### 4 - Aplicativo de Quiz
+
+### 5 - Jogo da Velha
+
+### 6 - Jogo da forca
+
+### 7 - To do List
 
 <br><br>
 

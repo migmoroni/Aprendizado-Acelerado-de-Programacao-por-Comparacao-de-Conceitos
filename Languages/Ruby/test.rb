@@ -1,6 +1,3 @@
-def salutation(func_var_string = "Mundo")
-    puts "Olá, #{func_var_string}!"
-end
-  
-  salutation
-  salutation("Jabuti")
+salutation = Proc.new do |func_var_string = "Mundo"| "Olá, #{func_var_string}!" end
+  puts salutation.call
+  puts salutation.call("Amigo")
