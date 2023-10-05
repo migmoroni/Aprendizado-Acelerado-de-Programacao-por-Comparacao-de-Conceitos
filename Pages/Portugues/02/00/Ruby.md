@@ -6,7 +6,7 @@
 
 Comentários em linguagens de programação são trechos de texto que não são executados pelo computador, mas desempenham um papel essencial na clareza e documentação do código. Eles são usados para explicar o propósito de partes do código, fornecer informações úteis aos programadores, facilitar a depuração de erros e, às vezes, desativar temporariamente seções do código. Comentários são uma prática fundamental para tornar o código mais compreensível, colaborativo e fácil de manter.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-01-00-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_01_00_00.rb)
 
 #### Maneira 1
 
@@ -34,11 +34,17 @@ Comentário
 
 #### Maneira 3
 
-Permite criar um Rdoc, o qual são formatados de maneira especial para gerar documentação.
+Comentários podem ter a utilidade de documentar
+Em Ruby, não existe um sistema de documentação incorporado, como em Java com o Javadoc. Todavia, Ruby possui ferramentas externas de documentação, como o RDoc.
 
 ```Ruby
 
-# :Comentário:
+=begin
+
+Este é um comentário de documentação.
+@param var_int -> variavel de número inteiro
+
+=end
 
 ```
 <br>
@@ -53,7 +59,7 @@ Atribuições são ações que associam um valor a uma variável, possibilitando
 
 Os tipos de dados em Ruby são inferidos automaticamente pelo interpretador. No entanto, existem alguns tipos básicos em Ruby, onde abaixo pode-se ve-los, com a atribuição simples de tipos de valores esperados:
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-02-00-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_02_00_00.rb)
 
 ```Ruby
 
@@ -86,7 +92,7 @@ var_classe = String
 
 A "tipagem forte" significa que a linguagem impõe regras rígidas para a conversão de tipos, garantindo que as operações sejam realizadas apenas entre tipos compatíveis, o que pode ajudar a prevenir erros de tipo durante a execução do programa.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-02-01-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_02_01_00.rb)
 
 ```Ruby
 #Atribui-se o tipo inteiro
@@ -110,7 +116,7 @@ Erro de Tipos. Não se pode somar Inteiro com String
 
 Por outro lado, a "tipagem dinâmica" permite que os tipos de dados sejam determinados em tempo de execução, o que dá mais flexibilidade ao código.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-02-01-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_02_01_01.rb)
 
 ```Ruby
 #Atribui-se o tipo inteiro
@@ -136,7 +142,7 @@ puts var_result
 ## 2.3 - Operadores
 
 ### Duas maneiras de operar
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-00-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_00_00.rb)
 
 ```Ruby
 
@@ -157,7 +163,7 @@ puts 10 + 3
 
 ### Operadores Aritméticos
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-01-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_01_00.rb)
 
 ```Ruby
 
@@ -173,20 +179,11 @@ puts 10.0 * 3
 #Divisão, obtendo o divisor da divisão
 puts 10.0 / 3
 
-#Divisão, obtendo apenas a parte inteira do divisor
-puts 10.0.div(3)
-
 #Módulo, obtendo o resto da divisão
 puts 10.0 % 3
 
 #Exponenciação
 puts 10.0 ** 3
-
-#Arredondamento
-puts (3.3333333333333335).round
-
-#Valor absoluto
-puts (-3).abs
 
 ```
 ##### Saída:
@@ -194,16 +191,13 @@ puts (-3).abs
 7.0  <br>
 30.0 <br>
 3.3333333333333335  <br>
-3  <br>
 1.0  <br>
 1000.0  <br>
-3  <br>
-3  <br>
 <br>
 
 ### Operadores de Atribuição
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-02-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_02_00.rb)
 
 ```Ruby
 
@@ -243,7 +237,7 @@ puts var_int **= 3
 
 ### Operadores de Comparação
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-03-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_03_00.rb)
 
 ```Ruby
 
@@ -280,7 +274,7 @@ true <br>
 <br>
 
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-03-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_03_01.rb)
 
 ```Ruby
 
@@ -305,7 +299,7 @@ puts ("ab" <=> "aa"), (10 <=> 3)
 
 São utilizados para criar sequências de valores com base em um início, fim e, em alguns casos, um incremento. Existem dois principais operadores de intervalo em Ruby.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-04-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_04_00.rb)
 
 ```Ruby
 
@@ -318,12 +312,16 @@ p var_range1.to_a
 p var_range2.to_a
 
 ```
+##### Saída:
+[1, 2, 3, 4, 5] <br>
+[1, 2, 3, 4] <br>
+<br>
 
 ### Operadores Lógicos
 
 #### Lógico de alta precedência
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_05_00.rb)
 
 ```Ruby
 
@@ -357,7 +355,7 @@ true <br>
 
 Os operadores "and", "or" e "not", possuem a mesma ação dos operadores anteriores, respectivamente "&&", "||" e "!", todavia com menor precedência, havendo necessidade do uso de parenteses para não ocasionar em imprecisão da operação.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_05_01.rb)
 
 ```Ruby
 
@@ -389,7 +387,7 @@ true <br>
 
 Todavia, por haver menos precedência, pode ocorrer eventos não tão esperados, mas também, auxiliar em realizar ações de comparação mais complexas, o qual podem ser necessárias a depender da necessidade.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05-02.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_05_02.rb)
 
 ```Ruby
 
@@ -418,9 +416,27 @@ false <br>
 
 <br>
 
-#### Lógico Bit a Bit
+### Operador Ternário
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-05-03.rb)
+O operador ternário é uma maneira eficiente e concisa de lidar com expressões condicionais simples e pode ser útil para atribuir valores com base em uma única condição.
+
+Estrutura:
+
+condicao ? valor_se_verdadeiro : valor_se_falso
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_06_00.rb)
+
+```Ruby
+
+var_int = 18
+var_string = var_int >= 18 ? "Maior de idade" : "Menor de idade"
+puts var_string
+
+```
+
+### Operadores Bit a Bit
+
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_07_00.rb)
 
 ```Ruby
 
@@ -459,7 +475,7 @@ puts (~ -10), (~ -3)
 
 Este operador é usado para manipular strings e arrays, como também realizar operações de deslocamento de bits a esquerda.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-06-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_08_00.rb)
 
 ```Ruby
 
@@ -485,7 +501,7 @@ p var_int << 3
 
 Em suma, é usado para deslocar bits à direita em números inteiros.
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-06-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_08_01.rb)
 
 ```Ruby
 
@@ -501,7 +517,7 @@ p var_int >> 2
 
 Por fim, como vimos diferentes precedencias nos exemplos acima, aqui ficará claro a ordem geral dos operadores que foram apresentados anteriormente:
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-03-07-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_03_09_00.rb)
 
 ```Ruby
 #1 - Parenteses
@@ -536,7 +552,7 @@ Conversão de valores refere-se à transformação de um tipo de dado em outro. 
 
 ### Converter valores para Inteiro
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-00-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_04_00_00.rb)
 
 ```Ruby
 
@@ -558,7 +574,7 @@ puts var_result + 10
 
 #### Maneira 1
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-01-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_04_01_00.rb)
 
 ```Ruby
 
@@ -578,7 +594,7 @@ puts var_float
 
 #### Maneira 2
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-01-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_04_01_01.rb)
 
 ```Ruby
 
@@ -599,7 +615,7 @@ puts var_result
 
 ### Converter valores para String
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-02-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_04_02_00.rb)
 
 ```Ruby
 
@@ -620,7 +636,7 @@ puts var_result.to_s + " restantes"
 
 ### Converter valores para Array
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-04-03-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_04_03_00.rb)
 
 ```Ruby
 
@@ -648,7 +664,7 @@ p var_array3 = var_int.to_s.chars.map(&:to_i)
 
 ### Concatenação
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-00-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_05_00_00.rb)
 
 ```Ruby
 
@@ -669,7 +685,7 @@ Um Jabuti pode viver mais do que 50 anos!<br>
 
 #### Maneira 1 - Simples
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_05_01_00.rb)
 
 ```Ruby
 
@@ -688,7 +704,7 @@ Um Jabuti pode viver mais do que 50 anos!<br>
 
 #### Maneira 2 - Com expressões
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_05_01_01.rb)
 
 ```Ruby
 
@@ -709,7 +725,7 @@ Já alguns poucos Jabutis podem viver mais do que 120 anos!
 
 #### Maneira 3 - Com bloco
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-01-02.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_05_01_02.rb)
 
 ```Ruby
 
@@ -730,7 +746,7 @@ Já alguns poucos Jabutis podem viver mais do que 120 anos!
 
 #### Maneira 1
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_05_02_00.rb)
 
 ```Ruby
 
@@ -748,7 +764,7 @@ Um JabutiUm Jabuti pode viver mais do que 50 anos!<br>
 
 #### Maneira 2
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-05-02-01.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_05_02_01.rb)
 
 ```Ruby
 
@@ -774,7 +790,7 @@ Existem vários tipos de funções, onde neste primeiro momento, é apresentado 
 
 ### Função sem Retorno
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-06-00-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_06_00_00.rb)
 
 ```Ruby
 
@@ -809,7 +825,7 @@ Olá, Mundo! <br>
 
 ### Função com Retorno
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-06-01-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_06_01_00.rb)
 
 ```Ruby
 
@@ -844,7 +860,7 @@ Olá, Mundo! <br>
 
 ### Função com Valores Padrão
 
-[Acesse o código](../../../../Languages/Ruby/02/Ruby-06-02-00.rb)
+[Acesse o código](../../../../Languages/Ruby/02/Ruby_06_02_00.rb)
 
 ```Ruby
 

@@ -8,7 +8,9 @@ Além disso, os "Olá Mundo!" também são úteis para verificar se o ambiente d
 
 ## 1.1 - Escrevendo na tela a mensagem "Olá Mundo!"
 
-[Acesse o código](../../../../Languages/Java/01/Java-01.java)
+### 1 - Via biblioteca out:
+
+[Acesse o código](../../../../Languages/Java/01/Java_01_00_00.java)
 
 #### Maneira 1
 
@@ -16,8 +18,12 @@ O método
 
 ```Java
 
-System.out.println("Olá Mundo!");
-System.out.println("Olá Mundo!");
+public class Java_01_00_00 {
+    public static void main(String[] args) {
+        System.out.println("Olá Mundo!");
+        System.out.println("Olá Mundo!");
+    }
+}
 
 ```
 ##### Saída:
@@ -32,8 +38,12 @@ O método
 
 ```Java
 
-System.out.print("Olá Mundo!");
-System.out.print("Olá Mundo!");
+public class Java_01_00_00 {
+    public static void main(String[] args) {
+        System.out.print("Olá Mundo!");
+        System.out.print("Olá Mundo!");
+    }
+}
 
 ```
 ##### Saída:
@@ -47,8 +57,12 @@ O método
 
 ```Java
 
-System.out.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
-System.out.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+public class Java_01_00_00 {
+    public static void main(String[] args) {
+        System.out.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+        System.out.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+    }
+}
 
 ```
 ##### Saída:
@@ -56,14 +70,20 @@ Texto: Olá Mundo, Letras: 8Texto: Olá Mundo, Letras: 8
 
 <br>
 
-#### Maneira 4
+### 2 - Direto de System:
+
+[Acesse o código](../../../../Languages/Java/01/Java_01_01_00.java)
 
 O método 
 
 ```Java
 
-System.console().printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
-System.console().printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+public class Java_01_01_00 {
+    public static void main(String[] args) {
+        System.console().printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+        System.console().printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+    }
+}
 
 ```
 ##### Saída:
@@ -71,20 +91,26 @@ Texto: Olá Mundo, Letras: 8Texto: Olá Mundo, Letras: 8
 
 <br>
 
-#### Maneira 5
+### 3 - Por via da biblioteca err:
+
+[Acesse o código](../../../../Languages/Java/01/Java_01_02_00.java)
 
 O método 
 
 ```Java
 
-System.err.println("Olá Mundo!");
-System.err.println("Olá Mundo!");
+public class Java_01_02_00 {
+    public static void main(String[] args) {
+        System.err.println("Olá Mundo!");
+        System.err.println("Olá Mundo!");
 
-System.err.print("Olá Mundo!");
-System.err.print("Olá Mundo!");
+        System.err.print("Olá Mundo!");
+        System.err.print("Olá Mundo!");
 
-System.err.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
-System.err.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+        System.err.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+        System.err.printf("Texto: %s, Letras: %d", "Olá Mundo", 8);
+    }
+}
 
 ```
 ##### Saída:
@@ -101,10 +127,14 @@ Texto: Olá Mundo, Letras: 8Texto: Olá Mundo, Letras: 8
 
 Existe uma forma de quebrar linha nos exemplos acima, com o uso do termo "\n".
 
-```Ruby
+```Java
 
-System.out.print("Olá Mundo!\n");
-System.out.print("Olá Mundo!\n");
+public class Java_01_03_00 {
+    public static void main(String[] args) {
+        System.out.print("Olá Mundo!\n");
+        System.out.print("Olá Mundo!\n");
+    }
+}
 
 ```
 ##### Saída:
