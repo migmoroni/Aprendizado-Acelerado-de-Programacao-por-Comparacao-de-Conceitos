@@ -84,13 +84,16 @@ public class Java_02_00_00 {
     double var_double = 10.55;
 
     //Armazena valores verdadeiros ou falsos
-    boolean var_boolean = true
+    boolean var_boolean = true;
 
     //Armazena sequências de caracteres
-    String var_string = "nome"
+    String var_string = "nome";
+
+    //Armazena apenas 1 caractere
+    char var_char = "A";
 
     //Armazena coleções de elementos do mesmo tipo
-    Array var_array = [0,1,2,3,4,5]
+    Array var_array = [0,1,2,3,4,5];
   }
 }
 
@@ -461,18 +464,18 @@ public class Java_03_07_01 {
     var_result3 = var_int2 >>> 2;
 
     // Para vermos o binário
-    String var_string_n1 = Integer.toBinaryString(var_int1);
-    String var_string_n2 = Integer.toBinaryString(var_int2);
-    String var_string1 = Integer.toBinaryString(var_result1);
-    String var_string2 = Integer.toBinaryString(var_result2);
-    String var_string3 = Integer.toBinaryString(var_result3);
+    String var_string_bin1 = Integer.toBinaryString(var_int1);
+    String var_string_bin2bin3 = Integer.toBinaryString(var_int2);
+    String var_result_bin1 = Integer.toBinaryString(var_result1);
+    String var_result_bin2 = Integer.toBinaryString(var_result2);
+    String var_result_bin3 = Integer.toBinaryString(var_result3);
 
     // Printando na tela
-    System.out.println("2 << 3 => " + var_result1 + ", Binário: " + var_string_n1 + " << 3 => " + var_string1);
+    System.out.println("2 << 3 => " + var_result1 + ", Binário: " + var_string_bin1 + " << 3 => " + var_result_bin1);
 
-    System.out.println("-16 >> 2 => " + var_result2 + ", Binário: " + var_string_n2 + " >> 2 => " + var_string2);
+    System.out.println("-16 >> 2 => " + var_result2 + ", Binário: " + var_string_bin2bin3 + " >> 2 => " + var_result_bin2);
 
-    System.out.println("-16 >>> 2 => " + var_result3 + ", Binário: " + var_string_n2 + " >>> 2 => " + var_string3);
+    System.out.println("-16 >>> 2 => " + var_result3 + ", Binário: " + var_string_bin2bin3 + " >>> 2 => " + var_result_bin3);
   }
 }
 
@@ -518,41 +521,113 @@ Por fim, como vimos diferentes precedencias nos exemplos acima, aqui ficará cla
 
 Conversão de valores refere-se à transformação de um tipo de dado em outro. Isso é útil para adequar dados a contextos específicos, realizar operações com tipos compatíveis e garantir que as informações sejam processadas corretamente.
 
-### Converter valores para Inteiro
+Elas podem ser implícitas (Casting Implícito), explícitas (Casting Explícito):
 
 [Acesse o código](../../../../Languages/Java/02/Java_04_00_00.java)
 
 ```Java
 
-#Passado uma string "10"
-var_string = "10"
+public class Java_04_00_00 {
+  public static void main(String[] args) {
+    int var_int = 5;
+    double var_double1 = 3.0;
 
-#Usando metodo to_i para converter string em inteiro
-var_result = var_string.to_i
+    double var_result1 = var_int + var_double1; // Conversão implícita de int para double
 
-puts var_result + 10
+    double var_double2 = 3.1415;
+    int var_result2 = (int) var_double2; // Conversão explícita de double para int
+
+    System.out.println(var_result1 + ", " + var_result2);
+
+
+    Object var_object = "Turtle";
+    String var_string = (String) var_object
+  }
+}
 
 ```
 ##### Saída:
-20
+8.0, 3
 
-<br>
+### Converter valores para byte
 
-### Converter valores para Float
 
-#### Maneira 1
+### Converter valores para short
+
+
+
+### Converter valores para Inteiro (int)
 
 [Acesse o código](../../../../Languages/Java/02/Java_04_01_00.java)
 
 ```Java
 
-#Passado uma string "3.14"
-var_string = "3.14"
+public class Java_04_01_00 {
+  public static void main(String[] args) {
+    byte var_byte = 5;
+    short var_short = 55;
+    long var_long = 150500;
+    float var_float = 1.5f;
+    double var_double = 842.248;
+    String var_string = "50";
+    char var_char = 'A';
+    boolean var_boolean = true;
 
-#Usando metodo to_f para converter string em float
-var_float = var_string.to_f
+    int var_int;
 
-puts var_float
+    var_int = var_byte;
+    System.out.println("byte " + var_byte + " para int: " + var_int);
+
+    var_int = var_short;
+    System.out.println("short " + var_short + " para int: " + var_int);
+
+    var_int = (int) var_long;
+    System.out.println("long " + var_long + " para int: " + var_int);
+
+    var_int = (int) var_float;
+    System.out.println("float " + var_float + " para int: " + var_int);
+
+    var_int = (int) var_double;
+    System.out.println("double " + var_double + " para int: " + var_int);
+
+    var_int = Integer.parseInt(var_string);
+    System.out.println("String " + var_string + " para int: " + var_int);
+
+    var_int = (int) var_char;
+    System.out.println("char " + var_char + " para int: " + var_int);
+
+    var_int = var_boolean ? 1 : 0;
+    System.out.println("boolean " + var_boolean + " para int: " + var_int);
+
+  }
+}
+
+```
+##### Saída:
+byte => 5 para int => 5
+short => 55 para int => 55
+long => 150500 para int => 150500
+float => 1.5 para int => 1
+double => 842.248 para int => 842
+String => 50 para int => 50
+char => A para int => 65
+boolean => true para int => 1
+
+<br>
+
+### Converter valores para long
+
+### Converter valores para float
+
+[Acesse o código](../../../../Languages/Java/02/Java_04_02_00.java)
+
+```Java
+
+public class Java_04_02_00 {
+  public static void main(String[] args) {
+    
+  }
+}
 
 ```
 ##### Saída:
@@ -560,26 +635,9 @@ puts var_float
 
 <br>
 
-#### Maneira 2
+### Converter valores para double
 
-[Acesse o código](../../../../Languages/Java/02/Java_04_01_01.java)
 
-```Java
-
-#Passado valores inteiros
-var_int1 = 10
-var_int2 = 3
-
-#Usando metodo to_f, na última variavel, para converter inteiro em float
-var_result = var_int1 / var_int2.to_f
-
-puts var_result
-
-```
-##### Saída:
-3.3333333333333335
-
-<br>
 
 ### Converter valores para String
 
@@ -601,6 +659,8 @@ puts var_result.to_s + " restantes"
 9 restantes
 
 <br>
+
+### Converter valores para char
 
 ### Converter valores para Array
 
