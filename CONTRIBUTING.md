@@ -1,4 +1,4 @@
-Contribuindo
+## Contribuindo
 
 É possível contribuir basicamente de 3 formas: criando issues, abrindo pull requests e revisando pull requests.
 Criando Issues
@@ -17,22 +17,33 @@ Outra forma de contribuir com o projeto é revisando PRs abertos. Se você tem d
 
 No momento da revisão lembre-se de ser cordial/educado e, se possível, teste manualmente a alteração ou correção antes de aprovar o PR.
 
-
-Estrutura dos arquivos:
-
-Arquives
-
-Languages
-
-Pages
+E antes de enviar um PR, sempre verifique se sua branche está sincronizada com a master (essa principal), solicitando que esta seja sincronizada antes de enviar seu PR.
 
 
-Estrutura dos textos:
+
+## Padrões deste Projeto
+
+Como medida de padronizar todo o projeto, aqui deixo de forma simples um guia a lhe auxiliar a seguir os padrões de nomes e termos:
+
+### Estrutura das pastas:
+
+Arquives:
+Contem arquivos gerais, não relacionados a código do projeto.
+
+Languages:
+Contem todas as linguagens em subpastas, sendo o local para armazenamento de todos os códigos de consulta.
+
+Pages:
+Contem os conteúdos explicativos dos códigos de consulta.
+
+### Nomes das pastas e arquivos:
+
+
+
+### Estrutura dos códigos:
 
 Variaveis:
+Uso de snake case, onde no inicio sempre usa-se o termo "var" seguido do termo do meio, onde é "_int" caso seja um inteiro e por último, de um numero, para diferenciar. Ex:
+var_int1, var_double3, var_result2
 
-Uso de snake case, onde no inicio sempre usa-se o termo "var" seguido de "_int" caso seja um inteiro.
-
-Aqui um exemplo:
-var_int3
-
+Os termos do meio, podem ser desde referentes ao tipo (_int = inteiro), como também a sua ação (_result = resultado).

@@ -8,21 +8,27 @@ Linguagens que estão em alta possuem conteúdo aos montes, todavia aquelas que 
 
 Todavia, muitos destes conteudos focam num modelo "Foco na Linguagem (Language First)", o qual buscam ensinar a programar através de uma só linguagem, todos os conceitos necessários.
 
+## As dificuldades do iniciante:
+
 No entanto, iniciantes tendem a achar que precisam encontrar a linguagem "certa" para poderem iniciar por ela e assim já estar apto ao mercado de trabalho. E isso muito culmina em trocas de linguagem, gerando tempo perdido e desamino cada vez maior que faz muitos iniciantes desistirem ou levarem muito tempo a conseguir alcançar seus objetivos.
 
 Eu fui um desses. Perdi muito tempo até conseguir entender que os conceitos em programação seguem a matemática em sua base, sendo assim, possuindo padrões de uso em todas as linguagens de programação. Ou seja, ao aprender bem um conceito, podemos mais facilmente conseguir aplica-lo em quaisquer linguagens que formos buscar aprender, aprendendo assim, apenas as mudanças de sintaxe da mesma.
 
 Visando resolver isso, surge este projeto.
 
-De um estimulo a estudar direto os conceitos da programação, meu surgiu a questão de juntar tudo em um só lugar, de forma a poder comparar e acelerar o aprendizado.
+## A solução que busca-se trazer:
 
-E com isso, venho trabalhando num outro modelo de aprender linguagens de programação, usando o modelo "Foco no Conceito (Concept First)".
+De um estimulo a estudar direto os conceitos da programação, surgiu a questão de juntar tudo em um só lugar, de forma a poder comparar e acelerar o aprendizado.
+
+E com isso, trabalhamos num outro modelo de aprender linguagens de programação, usando o modelo "Foco no Conceito (Concept First)".
 
 Facamos aqui na aprendizagem de conceitos de programação e suas aplicabilidades nas linguagens listadas. Ou seja, mudamos o foco. Aqui a linguagem é apenas a ferramenta para aplicar os conceitos.
 
 Você pode acompanhar os conceitos, desde os mais básicos, como ver como se printa na tela "Olá Mundo", como também, poderá ver (ainda não está feito) diferente estrutura de dados, algoritmos e padrões de projeto, em diversas linguagens de programação.
 
-Atualmente trabalho em duas linguagens para o projeto, sendo Ruby e Java.
+## Como utilizar:
+
+Atualmente, o projeto possui o foco de trabalho em duas linguagens, sendo Ruby e Java.
 
 De forma bem direta, pode conferir um conceito, e ver o código em cada linguagem, visualizando em paralelo os conceitos e rodando em sua máquina.
 
@@ -32,7 +38,7 @@ Assim, enfatizo que escolha a linguagem, caso não tenha pressa, pela de sintaxe
 
 Sedo assim, desejo a você bons estudos!
 
-## Como o projeto é desenvolvido:
+## Como é desenvolvido:
 
 Atualmente este projeto está numa situação de construção constante, apenas por mim, como diretriz dos meus próprios estudos. Vou consumindo as documentações e diversos sites de referencia, aprofundando nos conceitos e escrevendo aqui a sintese gerada.
 
