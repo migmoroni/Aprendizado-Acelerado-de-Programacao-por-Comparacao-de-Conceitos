@@ -34,9 +34,7 @@ De forma bem direta, pode conferir um conceito, e ver o código em cada linguage
 
 Ou, pode focar numa só linguagem, seguindo o caminho dos conceitos com apenas ela. Aprendendo bem os conceitos, junto de sua linguagem escolhida.
 
-Assim, enfatizo que escolha a linguagem, caso não tenha pressa, pela de sintaxe mais simples e direta, como Ruby, para aprender a programar.
-
-Sedo assim, desejo a você bons estudos!
+Assim, caso não tenha pressa, enfatizo que escolha a linguagem Ruby, pela de sintaxe mais simples e direta, para aprender os conceitos aqui apresentados.
 
 ## Como é desenvolvido:
 
@@ -44,15 +42,22 @@ Atualmente este projeto está numa situação de construção constante, apenas 
 
 Assim, se você procura um projeto para auxiliar, acredito que aqui é um excelente local para iniciar, visto que há muito o que se fazer, nas mais diversas habilidades, além da própria programação, como ensino, escrita, diagramação e outras.
 
-E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo dia costumo acessar.
-
-[Linkedin](https://www.linkedin.com/in/migmoroni/)
-
+[Mais informações sobre contribuição, pode encontrar aqui](CONTRIBUTING.md)
 
 ## O Modelo "Foco no Conceito":
 
+A trilha de aprendizagem está dividida em partes sequenciais, os quais vão subindo sua senioridade:
+
+Conceitos Básicos =========> 0, 1, 2, 3 e 4;
+Conceitos Intermediários ==> 5, 6, 7, 8 e 9;
+Conceitos Avançados =======> 10 e 11.
+
+Dessa forma, se busca um avanço lento e gradual, todavia rápido, pois se foca nos conceitos, ou seja, nos assuntos de fundação a todos os outros.
+
+Desejo a você bons estudos!
 
 ### 0 - [Sobre as linguagens](00/Sobre-Linguagens.md)
+Um pouco sobre a história, características e sintaxe de cada uma das Linguagens de programação que se busca trazer neste projeto.
 
 <table id="01-00" border="2" align="center">
     <tr>
@@ -187,6 +192,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 1 - [Todas as formas de escrever na tela "Olá Mundo!"](01/Ola-Mundo.md)
+O conceito de escrever na tela (ou console) esta tão famosa frase.
 
 <table id="01-01" border="2" align="center">
     <tr>
@@ -321,6 +327,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 2 - [Conceitos Básicos Fundamentais de Programação](02/Fundamentos.md)
+Conceitos primordiais que estarão presentes em toda a trajetória do programador.
 
 <table id="01-02" border="2" align="center">
     <tr>
@@ -455,6 +462,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 3 - [Estruturas de Fluxo](03/Estruturas-de-Fluxo.md)
+Um conceito que permite criar código que decida e realiza multiplas ações em looping.
 
 <table id="01-03" border="2" align="center">
     <tr>
@@ -589,6 +597,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 4 - [Entrada e Saída de Dados](04/Entrada-Saida-Dados.md)
+Um conceito que permite que o código trabalhe com o mundo externo, consumindo, executando e entregando resultados.
 
 <table id="01-04" border="2" align="center">
     <tr>
@@ -723,6 +732,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 5 - [Estrutura de dados](05/Estrutura-de-Dados.md)
+Conceitos que abrangem estruturas de organização do mundo real, aplicados em programação.
 
 <table id="01-06" border="2" align="center">
     <tr>
@@ -857,6 +867,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 6 - [Paradigmas](06/Paradigmas.md)
+Conceitos que promovem modos diferentes de operação e resolução de problemas, todos abstraidos da matemática e lógica universal.
 
 <table id="01-07" border="2" align="center">
     <tr>
@@ -991,6 +1002,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 7 - [Técnicas Gerais](07/Tecnicas-Gerais.md)
+Conjunto de conceitos que facilitam a resolução de problemas.
 
 <table id="01-08" border="2" align="center">
     <tr>
@@ -1124,7 +1136,8 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
     </tr>
 </table>
 
-### 8 - [Bibliotecas Comuns e Frameworks Web](08/Bibliotecas-Frameworks.md)
+### 8 - [Classes, Bibliotecas e Frameworks em Comum](08/Bibliotecas-Frameworks.md)
+Conjunto de ferramentas que aceleram o trabalho, respaldadas em muitos conceitos, mas que sejam comuns a maioria das Linguagens apresentadas.
 
 <table id="01-09" border="2" align="center">
     <tr>
@@ -1259,6 +1272,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 9 - [Integração com Banco de Dados](09/Banco-de-Dados.md)
+Conjunto de conceitos relacionados a integração com banco de dados.
 
 <table id="01-05" border="2" align="center">
     <tr>
@@ -1393,6 +1407,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 10 - [Algoritmos](10/Algoritmos.md)
+Conceitos matemáticos puros, aplicados com programação.
 
 <table id="01-10" border="2" align="center">
     <tr>
@@ -1527,6 +1542,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 11 - [Padrões de Design](11/Padroes-de-Design.md)
+Conjunto de padrões de estrutura de código, visando melhoria da organização e manutenção de código.
 
 <table id="01-11" border="2" align="center">
     <tr>
@@ -1661,6 +1677,7 @@ E para me encontrar, pode me enviar mensagem a hora que for pelo Linkedin, todo 
 </table>
 
 ### 12 - [Projetos](12/Projetos.md)
+Conjunto de projetos desenvolvidos com base nos tópicos anteriores.
 
 <table id="01-12" border="2" align="center">
     <tr>
