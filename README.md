@@ -63,7 +63,7 @@ Um pouco sobre a história, características e sintaxe de cada uma das Linguagen
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="00/00/Ruby.md" title="Ruby">
+            <a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)" title="Ruby">
                 <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
@@ -191,14 +191,14 @@ Um pouco sobre a história, características e sintaxe de cada uma das Linguagen
     </tr>
 </table>
 
-### 1 - [Todas as formas de escrever na tela "Olá Mundo!"](01/Ola-Mundo.md)
+### 1 - [Todas as formas de escrever na tela "Olá Mundo!"](./Pages/Portugues/01/00/Ola-Mundo.md)
 O conceito de escrever na tela (ou console) esta tão famosa frase.
 
 <table id="01-01" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="Pages/Portugues/01/00/Ruby.md" title="Ruby">
+            <a href="./Pages/Portugues/01/01/Ruby.md" title="Ruby">
                 <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
@@ -241,7 +241,7 @@ O conceito de escrever na tela (ou console) esta tão famosa frase.
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Java">
+            <a href="./Pages/Portugues/01/01/Java.md" title="Java">
                 <img align="center" height="50" src="Arquives/img/svg/files/java-original.svg" alt="Java"/>
             </a>
         </td>
@@ -326,14 +326,14 @@ O conceito de escrever na tela (ou console) esta tão famosa frase.
     </tr>
 </table>
 
-### 2 - [Conceitos Básicos Fundamentais de Programação](02/Fundamentos.md)
+### 2 - [Conceitos Básicos Fundamentais de Programação](./Pages/Portugues/02/00/Fundamentos.md)
 Conceitos primordiais que estarão presentes em toda a trajetória do programador.
 
 <table id="01-02" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="Languages/02/00/Ruby.md" title="Ruby">
+            <a href="./Pages/Portugues/02/01/Ruby.md" title="Ruby">
                 <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
@@ -376,7 +376,7 @@ Conceitos primordiais que estarão presentes em toda a trajetória do programado
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Java">
+            <a href="./Pages/Portugues/02/01/Java.md" title="Java">
                 <img align="center" height="50" src="Arquives/img/svg/files/java-original.svg" alt="Java"/>
             </a>
         </td>
@@ -461,15 +461,15 @@ Conceitos primordiais que estarão presentes em toda a trajetória do programado
     </tr>
 </table>
 
-### 3 - [Estruturas de Fluxo](03/Estruturas-de-Fluxo.md)
+### 3 - [Estruturas de Fluxo](./Pages/Portugues/03/00/Estruturas-de-Fluxo.md)
 Um conceito que permite criar código que decida e realiza multiplas ações em looping.
 
 <table id="01-03" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="Languages/03/00/Ruby.md" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ruby-original.svg" alt="Ruby"/>
+            <a href="./Pages/Portugues/03/01/Ruby.md" title="Ruby">
+                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
@@ -511,8 +511,8 @@ Um conceito que permite criar código que decida e realiza multiplas ações em 
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Java">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/java-original.svg" alt="Java"/>
+            <a href="./Pages/Portugues/03/01/Java.md" title="Java">
+                <img align="center" height="50" src="Arquives/img/svg/files/java-original.svg" alt="Java"/>
             </a>
         </td>
         <td align="center">
@@ -596,15 +596,15 @@ Um conceito que permite criar código que decida e realiza multiplas ações em 
     </tr>
 </table>
 
-### 4 - [Entrada e Saída de Dados](04/Entrada-Saida-Dados.md)
+### 4 - [Entrada e Saída de Dados](./Pages/Portugues/04/00/Entrada-Saida-Dados.md)
 Um conceito que permite que o código trabalhe com o mundo externo, consumindo, executando e entregando resultados.
 
 <table id="01-04" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
-            <a href="Languages/04/00/Ruby.md" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ruby-original.svg" alt="Ruby"/>
+            <a href="./Pages/Portugues/04/01/Ruby.md" title="Ruby">
+                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
@@ -646,8 +646,8 @@ Um conceito que permite que o código trabalhe com o mundo externo, consumindo, 
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Java">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/java-original.svg" alt="Java"/>
+            <a href="./Pages/Portugues/04/01/Java.md" title="Java">
+                <img align="center" height="50" src="Arquives/img/svg/files/java-original.svg" alt="Java"/>
             </a>
         </td>
         <td align="center">
@@ -731,7 +731,7 @@ Um conceito que permite que o código trabalhe com o mundo externo, consumindo, 
     </tr>
 </table>
 
-### 5 - [Estrutura de dados](05/Estrutura-de-Dados.md)
+### 5 - [Estrutura de dados](CONTRIBUTING.md)
 Conceitos que abrangem estruturas de organização do mundo real, aplicados em programação.
 
 <table id="01-06" border="2" align="center">
@@ -866,7 +866,7 @@ Conceitos que abrangem estruturas de organização do mundo real, aplicados em p
     </tr>
 </table>
 
-### 6 - [Paradigmas](06/Paradigmas.md)
+### 6 - [Paradigmas](CONTRIBUTING.md)
 Conceitos que promovem modos diferentes de operação e resolução de problemas, todos abstraidos da matemática e lógica universal.
 
 <table id="01-07" border="2" align="center">
@@ -1001,7 +1001,7 @@ Conceitos que promovem modos diferentes de operação e resolução de problemas
     </tr>
 </table>
 
-### 7 - [Técnicas Gerais](07/Tecnicas-Gerais.md)
+### 7 - [Técnicas Gerais](CONTRIBUTING.md)
 Conjunto de conceitos que facilitam a resolução de problemas.
 
 <table id="01-08" border="2" align="center">
@@ -1136,7 +1136,7 @@ Conjunto de conceitos que facilitam a resolução de problemas.
     </tr>
 </table>
 
-### 8 - [Classes, Bibliotecas e Frameworks em Comum](08/Bibliotecas-Frameworks.md)
+### 8 - [Classes, Bibliotecas e Frameworks em Comum](CONTRIBUTING.md)
 Conjunto de ferramentas que aceleram o trabalho, respaldadas em muitos conceitos, mas que sejam comuns a maioria das Linguagens apresentadas.
 
 <table id="01-09" border="2" align="center">
@@ -1271,7 +1271,7 @@ Conjunto de ferramentas que aceleram o trabalho, respaldadas em muitos conceitos
     </tr>
 </table>
 
-### 9 - [Integração com Banco de Dados](09/Banco-de-Dados.md)
+### 9 - [Integração com Banco de Dados](CONTRIBUTING.md)
 Conjunto de conceitos relacionados a integração com banco de dados.
 
 <table id="01-05" border="2" align="center">
@@ -1406,7 +1406,7 @@ Conjunto de conceitos relacionados a integração com banco de dados.
     </tr>
 </table>
 
-### 10 - [Algoritmos](10/Algoritmos.md)
+### 10 - [Algoritmos](CONTRIBUTING.md)
 Conceitos matemáticos puros, aplicados com programação.
 
 <table id="01-10" border="2" align="center">
@@ -1541,7 +1541,7 @@ Conceitos matemáticos puros, aplicados com programação.
     </tr>
 </table>
 
-### 11 - [Padrões de Design](11/Padroes-de-Design.md)
+### 11 - [Padrões de Design](CONTRIBUTING.md)
 Conjunto de padrões de estrutura de código, visando melhoria da organização e manutenção de código.
 
 <table id="01-11" border="2" align="center">
@@ -1676,7 +1676,7 @@ Conjunto de padrões de estrutura de código, visando melhoria da organização 
     </tr>
 </table>
 
-### 12 - [Projetos](12/Projetos.md)
+### 12 - [Projetos](./Pages/Portugues/12/00/Projetos.md)
 Conjunto de projetos desenvolvidos com base nos tópicos anteriores.
 
 <table id="01-12" border="2" align="center">
