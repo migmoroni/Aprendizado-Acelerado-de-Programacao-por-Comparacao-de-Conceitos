@@ -48,11 +48,11 @@ Assim, se você procura um projeto para auxiliar, acredito que aqui é um excele
 
 A trilha de aprendizagem está dividida em partes sequenciais, os quais vão subindo sua senioridade:
 
-Conceitos Básicos =========> 0, 1, 2, 3 e 4;<br>
+Conceitos Básicos =======> 0, 1, 2, 3 e 4;<br>
 Conceitos Intermediários ==> 5, 6, 7, 8 e 9;<br>
-Conceitos Avançados =======> 10 e 11.
+Conceitos Avançados ====> 10 e 11.
 
-Dessa forma, se busca um avanço lento e gradual, todavia rápido, pois se foca nos conceitos, ou seja, nos assuntos de fundação a todos os outros.
+Dessa forma, se busca um avanço lento e gradual, todavia rápido, pois se poupa tempo ao se foca nos conceitos, os assuntos de fundação a todos os outros.
 
 Desejo a você bons estudos!
 
