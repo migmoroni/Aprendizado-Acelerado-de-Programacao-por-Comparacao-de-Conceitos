@@ -4,4 +4,4 @@ Fortran - https://commons.wikimedia.org/wiki/File:Fortran_logo.svg
 
 Ada - https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg
 
-Forth and GLSL and Cobol and Q# - Próprios
+Forth and GLSL and Cobol and Q# - Onwer
