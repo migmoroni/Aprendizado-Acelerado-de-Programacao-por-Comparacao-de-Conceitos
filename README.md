@@ -10,12 +10,14 @@ Para entender este projeto:
 
 [Contribua seu conhecimento para democratizar o ensino](CONTRIBUTING.md)
 
+[Indice](./Pages/Portugues/INDICE.md)
+
 ## O projeto
 
-### 0 - [Sobre as linguagens](00/Sobre-Linguagens.md)
-Um pouco sobre a história, características e sintaxe de cada uma das Linguagens de programação que se busca trazer neste projeto.
+### 0 - [Introdução as Linguagens](00/Sobre-Linguagens.md)
+Sobre a história, características principais, sintaxe e ambientes de desenvolvimento de cada uma das Linguagens de programação que traz neste projeto.
 
-<table id="01-00" border="2" align="center">
+<table id="00-00" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Interpretado</font></td>
         <td align="center">
@@ -24,7 +26,7 @@ Um pouco sobre a história, características e sintaxe de cada uma das Linguagen
             </a>
         </td>
         <td align="center">
-            <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">
+            <a href="https://en.wikipedia.org/wiki/JavaScript" title="TypeScript">
                 <img align="center" height="50" src="Arquives/img/svg/files/typescript-original.svg" alt="TypeScript"/>
             </a>
         </td>
@@ -46,16 +48,6 @@ Um pouco sobre a história, características e sintaxe de cada uma das Linguagen
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)" title="GDscript">
                 <img align="center" height="50" src="Arquives/img/svg/files/godot-original.svg" alt="GDscript"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Shell_script" title="Shell Script">
-                <img align="center" height="50" src="Arquives/img/svg/files/bash-original-fundo.svg" alt="Shell Script"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/PHP" title="PHP">
-                <img align="center" height="50" src="Arquives/img/svg/files/php-original.svg" alt="PHP"/>
             </a>
         </td>
     </tr>
@@ -89,16 +81,6 @@ Um pouco sobre a história, características e sintaxe de cada uma das Linguagen
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/OCaml" title="OCaml">
                 <img align="center" height="50" src="Arquives/img/svg/files/ocaml-original.svg" alt="OCaml"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Fortran" title="Fortran">
-                <img align="center" height="50" src="Arquives/img/svg/files/Fortran_logo.svg" alt="Fortran"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Ada_(programming_language)" title="Ada">
-                <img align="center" height="50" src="Arquives/img/svg/files/Ada_horizon_green_logo_with_slogan-edit.svg" alt="Ada"/>
             </a>
         </td>
     </tr>
@@ -111,107 +93,18 @@ O conceito de escrever na tela (ou console) esta tão famosa frase.
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Interpretado</font></td>
         <td align="center">
-            <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">
-                <img align="center" height="50" src="Arquives/img/svg/files/javascript-original.svg" alt="JavaScript"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">
-                <img align="center" height="50" src="Arquives/img/svg/files/typescript-original.svg" alt="TypeScript"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python">
-                <img align="center" height="50" src="Arquives/img/svg/files/python-original.svg" alt="Python"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" title="Lua">
-                <img align="center" height="50" src="Arquives/img/svg/files/lua-original-wordmark.svg" alt="Lua"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)" title="GDscript">
-                <img align="center" height="50" src="Arquives/img/svg/files/godot-original.svg" alt="GDscript"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Shell_script" title="Shell Script">
-                <img align="center" height="50" src="Arquives/img/svg/files/bash-original-fundo.svg" alt="Shell Script"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/PHP" title="PHP">
-                <img align="center" height="50" src="Arquives/img/svg/files/php-original.svg" alt="PHP"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Compilado</font></td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" title="Java">
-                <img align="center" height="50" src="Arquives/img/svg/files/java-original.svg" alt="Java"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/csharp-original.svg" alt="C sharp"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
-                <img align="center" height="50" src="Arquives/img/svg/files/c-original.svg" alt="C"/>
-            </a>
-        </td> 
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C plusplus">
-                <img align="center" height="50" src="Arquives/img/svg/files/cplusplus-original.svg" alt="C plusplus"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" title="Rust">
-                <img align="center" height="50" src="Arquives/img/svg/files/rust-plain.svg" alt="Rust"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/OCaml" title="OCaml">
-                <img align="center" height="50" src="Arquives/img/svg/files/ocaml-original.svg" alt="OCaml"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Fortran" title="Fortran">
-                <img align="center" height="50" src="Arquives/img/svg/files/Fortran_logo.svg" alt="Fortran"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/Ada_(programming_language)" title="Ada">
-                <img align="center" height="50" src="Arquives/img/svg/files/Ada_horizon_green_logo_with_slogan-edit.svg" alt="Ada"/>
-            </a>
-        </td>
-    </tr>
-</table>
-
-<table id="01-01" border="2" align="center">
-    <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
-        <td align="center">
-            <a href="./Pages/Portugues/01/01/Ruby.md" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="JavaScript">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/javascript-original.svg" alt="JavaScript"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Perl">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
+            <a href="CONTRIBUTING.md" title="TypeScript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="./Pages/Portugues/01/01/Ruby.md" title="Ruby">
+                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
@@ -220,28 +113,18 @@ O conceito de escrever na tela (ou console) esta tão famosa frase.
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="GDscript">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="Lua">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/lua-original-wordmark.svg" alt="Lua"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Shell Script">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/bash-original-fundo.svg" alt="Shell Script"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="PHP">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/php-original.svg" alt="PHP"/>
+            <a href="CONTRIBUTING.md" title="GDscript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
             </a>
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Compilado</font></td>
         <td align="center">
             <a href="./Pages/Portugues/01/01/Java.md" title="Java">
                 <img align="center" height="50" src="Arquives/img/svg/files/java-original.svg" alt="Java"/>
@@ -253,55 +136,12 @@ O conceito de escrever na tela (ou console) esta tão famosa frase.
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="F sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/fsharp-original.svg" alt="F sharp"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Q Sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/qsharp-original.svg" alt="Q sharp"/>
-            </a>
-        </td>
-         <td align="center">
-            <a href="CONTRIBUTING.md" title="Elixir">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/elixir-original.svg" alt="Elixir"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="OCaml">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Haskell">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/haskell-original.svg" alt="Haskell"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Crystal">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/crystal-original.svg" alt="Crystal"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Médio Nível</font></td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Fortran">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Fortran_logo.svg" alt="Fortran"/>
-            </a>
-        </td>
-            <td align="center">
-            <a href="CONTRIBUTING.md" title="Ada">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Ada_horizon_green_logo_with_slogan-edit.svg" alt="Ada"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="C">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/c-original.svg" alt="C"/>
             </a>
         </td> 
         <td align="center">
-            <a href="CONTRIBUTING.md" title="C plusplus">
+            <a href="CONTRIBUTING.md">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/cplusplus-original.svg" alt="C plusplus"/>
             </a>
         </td>
@@ -311,18 +151,8 @@ O conceito de escrever na tela (ou console) esta tão famosa frase.
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Forth">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Forth-Language-white-background.svg" alt="Forth"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Cobol">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Cobol-Language-white-background.svg" alt="Cobol"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="GLSL">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/GLSL-Language-white-background.svg" alt="GLSL"/>
+            <a href="CONTRIBUTING.md" title="OCaml">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
             </a>
         </td>
     </tr>
@@ -331,22 +161,22 @@ O conceito de escrever na tela (ou console) esta tão famosa frase.
 ### 2 - [Conceitos Básicos Fundamentais de Programação](./Pages/Portugues/02/00/Fundamentos.md)
 Conceitos primordiais que estarão presentes em toda a trajetória do programador.
 
-<table id="01-02" border="2" align="center">
+<table id="02-00" border="2" align="center">
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
-        <td align="center">
-            <a href="./Pages/Portugues/02/01/Ruby.md" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
-            </a>
-        </td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Interpretado</font></td>
         <td align="center">
             <a href="CONTRIBUTING.md" title="JavaScript">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/javascript-original.svg" alt="JavaScript"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Perl">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
+            <a href="CONTRIBUTING.md" title="TypeScript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="./Pages/Portugues/02/01/Ruby.md" title="Ruby">
+                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
@@ -355,28 +185,18 @@ Conceitos primordiais que estarão presentes em toda a trajetória do programado
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="GDscript">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="Lua">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/lua-original-wordmark.svg" alt="Lua"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Shell Script">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/bash-original-fundo.svg" alt="Shell Script"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="PHP">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/php-original.svg" alt="PHP"/>
+            <a href="CONTRIBUTING.md" title="GDscript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
             </a>
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Compilado</font></td>
         <td align="center">
             <a href="./Pages/Portugues/02/01/Java.md" title="Java">
                 <img align="center" height="50" src="Arquives/img/svg/files/java-original.svg" alt="Java"/>
@@ -388,55 +208,12 @@ Conceitos primordiais que estarão presentes em toda a trajetória do programado
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="F sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/fsharp-original.svg" alt="F sharp"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Q Sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/qsharp-original.svg" alt="Q sharp"/>
-            </a>
-        </td>
-         <td align="center">
-            <a href="CONTRIBUTING.md" title="Elixir">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/elixir-original.svg" alt="Elixir"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="OCaml">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Haskell">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/haskell-original.svg" alt="Haskell"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Crystal">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/crystal-original.svg" alt="Crystal"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Médio Nível</font></td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Fortran">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Fortran_logo.svg" alt="Fortran"/>
-            </a>
-        </td>
-            <td align="center">
-            <a href="CONTRIBUTING.md" title="Ada">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Ada_horizon_green_logo_with_slogan-edit.svg" alt="Ada"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="C">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/c-original.svg" alt="C"/>
             </a>
         </td> 
         <td align="center">
-            <a href="CONTRIBUTING.md" title="C plusplus">
+            <a href="CONTRIBUTING.md">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/cplusplus-original.svg" alt="C plusplus"/>
             </a>
         </td>
@@ -446,18 +223,8 @@ Conceitos primordiais que estarão presentes em toda a trajetória do programado
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Forth">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Forth-Language-white-background.svg" alt="Forth"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Cobol">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Cobol-Language-white-background.svg" alt="Cobol"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="GLSL">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/GLSL-Language-white-background.svg" alt="GLSL"/>
+            <a href="CONTRIBUTING.md" title="OCaml">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
             </a>
         </td>
     </tr>
@@ -466,22 +233,22 @@ Conceitos primordiais que estarão presentes em toda a trajetória do programado
 ### 3 - [Estruturas de Fluxo](./Pages/Portugues/03/00/Estruturas-de-Fluxo.md)
 Um conceito que permite criar código que decida e realiza multiplas ações em looping.
 
-<table id="01-03" border="2" align="center">
+<table id="03-00" border="2" align="center">
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
-        <td align="center">
-            <a href="./Pages/Portugues/03/01/Ruby.md" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
-            </a>
-        </td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Interpretado</font></td>
         <td align="center">
             <a href="CONTRIBUTING.md" title="JavaScript">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/javascript-original.svg" alt="JavaScript"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Perl">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
+            <a href="CONTRIBUTING.md" title="TypeScript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="./Pages/Portugues/03/01/Ruby.md" title="Ruby">
+                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
@@ -490,28 +257,18 @@ Um conceito que permite criar código que decida e realiza multiplas ações em 
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="GDscript">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="Lua">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/lua-original-wordmark.svg" alt="Lua"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Shell Script">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/bash-original-fundo.svg" alt="Shell Script"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="PHP">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/php-original.svg" alt="PHP"/>
+            <a href="CONTRIBUTING.md" title="GDscript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
             </a>
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Compilado</font></td>
         <td align="center">
             <a href="./Pages/Portugues/03/01/Java.md" title="Java">
                 <img align="center" height="50" src="Arquives/img/svg/files/java-original.svg" alt="Java"/>
@@ -523,55 +280,12 @@ Um conceito que permite criar código que decida e realiza multiplas ações em 
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="F sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/fsharp-original.svg" alt="F sharp"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Q Sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/qsharp-original.svg" alt="Q sharp"/>
-            </a>
-        </td>
-         <td align="center">
-            <a href="CONTRIBUTING.md" title="Elixir">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/elixir-original.svg" alt="Elixir"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="OCaml">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Haskell">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/haskell-original.svg" alt="Haskell"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Crystal">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/crystal-original.svg" alt="Crystal"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Médio Nível</font></td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Fortran">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Fortran_logo.svg" alt="Fortran"/>
-            </a>
-        </td>
-            <td align="center">
-            <a href="CONTRIBUTING.md" title="Ada">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Ada_horizon_green_logo_with_slogan-edit.svg" alt="Ada"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="C">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/c-original.svg" alt="C"/>
             </a>
         </td> 
         <td align="center">
-            <a href="CONTRIBUTING.md" title="C plusplus">
+            <a href="CONTRIBUTING.md">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/cplusplus-original.svg" alt="C plusplus"/>
             </a>
         </td>
@@ -581,18 +295,8 @@ Um conceito que permite criar código que decida e realiza multiplas ações em 
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Forth">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Forth-Language-white-background.svg" alt="Forth"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Cobol">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Cobol-Language-white-background.svg" alt="Cobol"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="GLSL">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/GLSL-Language-white-background.svg" alt="GLSL"/>
+            <a href="CONTRIBUTING.md" title="OCaml">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
             </a>
         </td>
     </tr>
@@ -601,22 +305,22 @@ Um conceito que permite criar código que decida e realiza multiplas ações em 
 ### 4 - [Entrada e Saída de Dados](./Pages/Portugues/04/00/Entrada-Saida-Dados.md)
 Um conceito que permite que o código trabalhe com o mundo externo, consumindo, executando e entregando resultados.
 
-<table id="01-04" border="2" align="center">
+<table id="04-00" border="2" align="center">
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
-        <td align="center">
-            <a href="./Pages/Portugues/04/01/Ruby.md" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
-            </a>
-        </td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Interpretado</font></td>
         <td align="center">
             <a href="CONTRIBUTING.md" title="JavaScript">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/javascript-original.svg" alt="JavaScript"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Perl">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
+            <a href="CONTRIBUTING.md" title="TypeScript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="./Pages/Portugues/04/01/Ruby.md" title="Ruby">
+                <img align="center" height="50" src="Arquives/img/svg/files/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
@@ -625,28 +329,18 @@ Um conceito que permite que o código trabalhe com o mundo externo, consumindo, 
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="GDscript">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="Lua">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/lua-original-wordmark.svg" alt="Lua"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Shell Script">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/bash-original-fundo.svg" alt="Shell Script"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="PHP">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/php-original.svg" alt="PHP"/>
+            <a href="CONTRIBUTING.md" title="GDscript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
             </a>
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Compilado</font></td>
         <td align="center">
             <a href="./Pages/Portugues/04/01/Java.md" title="Java">
                 <img align="center" height="50" src="Arquives/img/svg/files/java-original.svg" alt="Java"/>
@@ -658,55 +352,12 @@ Um conceito que permite que o código trabalhe com o mundo externo, consumindo, 
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="F sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/fsharp-original.svg" alt="F sharp"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Q Sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/qsharp-original.svg" alt="Q sharp"/>
-            </a>
-        </td>
-         <td align="center">
-            <a href="CONTRIBUTING.md" title="Elixir">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/elixir-original.svg" alt="Elixir"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="OCaml">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Haskell">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/haskell-original.svg" alt="Haskell"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Crystal">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/crystal-original.svg" alt="Crystal"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Médio Nível</font></td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Fortran">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Fortran_logo.svg" alt="Fortran"/>
-            </a>
-        </td>
-            <td align="center">
-            <a href="CONTRIBUTING.md" title="Ada">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Ada_horizon_green_logo_with_slogan-edit.svg" alt="Ada"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="C">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/c-original.svg" alt="C"/>
             </a>
         </td> 
         <td align="center">
-            <a href="CONTRIBUTING.md" title="C plusplus">
+            <a href="CONTRIBUTING.md">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/cplusplus-original.svg" alt="C plusplus"/>
             </a>
         </td>
@@ -716,18 +367,8 @@ Um conceito que permite que o código trabalhe com o mundo externo, consumindo, 
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Forth">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Forth-Language-white-background.svg" alt="Forth"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Cobol">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Cobol-Language-white-background.svg" alt="Cobol"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="GLSL">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/GLSL-Language-white-background.svg" alt="GLSL"/>
+            <a href="CONTRIBUTING.md" title="OCaml">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
             </a>
         </td>
     </tr>
@@ -736,22 +377,22 @@ Um conceito que permite que o código trabalhe com o mundo externo, consumindo, 
 ### 5 - [Estrutura de dados](CONTRIBUTING.md)
 Conceitos que abrangem estruturas de organização do mundo real, aplicados em programação.
 
-<table id="01-06" border="2" align="center">
+<table id="05-00" border="2" align="center">
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ruby-original.svg" alt="Ruby"/>
-            </a>
-        </td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Interpretado</font></td>
         <td align="center">
             <a href="CONTRIBUTING.md" title="JavaScript">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/javascript-original.svg" alt="JavaScript"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Perl">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
+            <a href="CONTRIBUTING.md" title="TypeScript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="CONTRIBUTING.md" title="Ruby">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
@@ -760,28 +401,18 @@ Conceitos que abrangem estruturas de organização do mundo real, aplicados em p
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="GDscript">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="Lua">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/lua-original-wordmark.svg" alt="Lua"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Shell Script">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/bash-original-fundo.svg" alt="Shell Script"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="PHP">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/php-original.svg" alt="PHP"/>
+            <a href="CONTRIBUTING.md" title="GDscript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
             </a>
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Compilado</font></td>
         <td align="center">
             <a href="CONTRIBUTING.md" title="Java">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/java-original.svg" alt="Java"/>
@@ -793,55 +424,12 @@ Conceitos que abrangem estruturas de organização do mundo real, aplicados em p
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="F sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/fsharp-original.svg" alt="F sharp"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Q Sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/qsharp-original.svg" alt="Q sharp"/>
-            </a>
-        </td>
-         <td align="center">
-            <a href="CONTRIBUTING.md" title="Elixir">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/elixir-original.svg" alt="Elixir"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="OCaml">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Haskell">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/haskell-original.svg" alt="Haskell"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Crystal">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/crystal-original.svg" alt="Crystal"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Médio Nível</font></td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Fortran">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Fortran_logo.svg" alt="Fortran"/>
-            </a>
-        </td>
-            <td align="center">
-            <a href="CONTRIBUTING.md" title="Ada">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Ada_horizon_green_logo_with_slogan-edit.svg" alt="Ada"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="C">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/c-original.svg" alt="C"/>
             </a>
         </td> 
         <td align="center">
-            <a href="CONTRIBUTING.md" title="C plusplus">
+            <a href="CONTRIBUTING.md">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/cplusplus-original.svg" alt="C plusplus"/>
             </a>
         </td>
@@ -851,18 +439,8 @@ Conceitos que abrangem estruturas de organização do mundo real, aplicados em p
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Forth">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Forth-Language-white-background.svg" alt="Forth"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Cobol">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Cobol-Language-white-background.svg" alt="Cobol"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="GLSL">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/GLSL-Language-white-background.svg" alt="GLSL"/>
+            <a href="CONTRIBUTING.md" title="OCaml">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
             </a>
         </td>
     </tr>
@@ -871,22 +449,22 @@ Conceitos que abrangem estruturas de organização do mundo real, aplicados em p
 ### 6 - [Paradigmas](CONTRIBUTING.md)
 Conceitos que promovem modos diferentes de operação e resolução de problemas, todos abstraidos da matemática e lógica universal.
 
-<table id="01-07" border="2" align="center">
+<table id="06-00" border="2" align="center">
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Ruby">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ruby-original.svg" alt="Ruby"/>
-            </a>
-        </td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Interpretado</font></td>
         <td align="center">
             <a href="CONTRIBUTING.md" title="JavaScript">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/javascript-original.svg" alt="JavaScript"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Perl">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/perl-original.svg" alt="Perl"/>
+            <a href="CONTRIBUTING.md" title="TypeScript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/typescript-original.svg" alt="TypeScript"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="CONTRIBUTING.md" title="Ruby">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ruby-original.svg" alt="Ruby"/>
             </a>
         </td>
         <td align="center">
@@ -895,28 +473,18 @@ Conceitos que promovem modos diferentes de operação e resolução de problemas
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="GDscript">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="Lua">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/lua-original-wordmark.svg" alt="Lua"/>
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Shell Script">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/bash-original-fundo.svg" alt="Shell Script"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="PHP">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/php-original.svg" alt="PHP"/>
+            <a href="CONTRIBUTING.md" title="GDscript">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/godot-original.svg" alt="GDscript"/>
             </a>
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Alto Nível</font></td>
+        <td colspan="2" align="left"><font size="4" color="FFFFFF">Compilado</font></td>
         <td align="center">
             <a href="CONTRIBUTING.md" title="Java">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/java-original.svg" alt="Java"/>
@@ -928,55 +496,12 @@ Conceitos que promovem modos diferentes de operação e resolução de problemas
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="F sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/fsharp-original.svg" alt="F sharp"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Q Sharp">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/qsharp-original.svg" alt="Q sharp"/>
-            </a>
-        </td>
-         <td align="center">
-            <a href="CONTRIBUTING.md" title="Elixir">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/elixir-original.svg" alt="Elixir"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="OCaml">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Haskell">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/haskell-original.svg" alt="Haskell"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Crystal">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/crystal-original.svg" alt="Crystal"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="left"><font size="4" color="FFFFFF">Médio Nível</font></td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Fortran">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Fortran_logo.svg" alt="Fortran"/>
-            </a>
-        </td>
-            <td align="center">
-            <a href="CONTRIBUTING.md" title="Ada">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Ada_horizon_green_logo_with_slogan-edit.svg" alt="Ada"/>
-            </a>
-        </td>
-        <td align="center">
             <a href="CONTRIBUTING.md" title="C">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/c-original.svg" alt="C"/>
             </a>
         </td> 
         <td align="center">
-            <a href="CONTRIBUTING.md" title="C plusplus">
+            <a href="CONTRIBUTING.md">
                 <img align="center" height="50" src="Arquives/img/svg/files/opacity/cplusplus-original.svg" alt="C plusplus"/>
             </a>
         </td>
@@ -986,18 +511,8 @@ Conceitos que promovem modos diferentes de operação e resolução de problemas
             </a>
         </td>
         <td align="center">
-            <a href="CONTRIBUTING.md" title="Forth">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Forth-Language-white-background.svg" alt="Forth"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="Cobol">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/Cobol-Language-white-background.svg" alt="Cobol"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="CONTRIBUTING.md" title="GLSL">
-                <img align="center" height="50" src="Arquives/img/svg/files/opacity/GLSL-Language-white-background.svg" alt="GLSL"/>
+            <a href="CONTRIBUTING.md" title="OCaml">
+                <img align="center" height="50" src="Arquives/img/svg/files/opacity/ocaml-original.svg" alt="OCaml"/>
             </a>
         </td>
     </tr>
@@ -1138,7 +653,7 @@ Conjunto de conceitos que facilitam a resolução de problemas.
     </tr>
 </table>
 
-### 8 - [Classes, Bibliotecas e Frameworks em Comum](CONTRIBUTING.md)
+### 8 - [Bibliotecas e Frameworks](CONTRIBUTING.md)
 Conjunto de ferramentas que aceleram o trabalho, respaldadas em muitos conceitos, mas que sejam comuns a maioria das Linguagens apresentadas.
 
 <table id="01-09" border="2" align="center">
@@ -1681,7 +1196,7 @@ Conjunto de padrões de estrutura de código, visando melhoria da organização 
 ### 12 - [Projetos](./Pages/Portugues/12/00/Projetos.md)
 Conjunto de projetos desenvolvidos com base nos tópicos anteriores.
 
-<table id="01-12" border="2" align="center">
+<table id="12-00" border="2" align="center">
     <tr>
         <td colspan="2" align="left"><font size="4" color="FFFFFF">Script</font></td>
         <td align="center">
