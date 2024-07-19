@@ -1,38 +1,15 @@
 # Ruby
 
-## Questões básicas
+# 3 - Estruturas de Fluxo
 
-### Caracteristicas:
+## 3.1 - Estruturas de Decisão
 
-### História:
+## 3.2 - Estruturas de Repetição
 
-### Onde é empregado:
+## 3.3 - Estruturas de Excessão
 
-## Questões de uso
-
-### Instalação:
-
-### Ecossistema:
-
-### Documentação e aprendizagem:
-
-### Comunidade e suporte:
+## 3.4 - Estruturas de Transferência
 
 
 
 
-```Ruby
-
-# Comentário
-
-
-=begin
-
-Comentário
-
-=end
-
-
-# :Comentário:
-
-```

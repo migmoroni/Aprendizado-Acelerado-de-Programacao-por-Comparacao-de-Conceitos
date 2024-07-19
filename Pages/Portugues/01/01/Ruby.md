@@ -1,15 +1,8 @@
 # Ruby
 
-# 1 - Escreva na Tela "Olá Mundo!":
+## 1 - Printar texto com quebra de linha
 
-Escrever na tela "Olá Mundo!", são programas simples que servem como uma introdução ao aprendizado de uma linguagem de programação. Eles são usados principalmente como um primeiro exemplo de código em uma nova linguagem para demonstrar os conceitos básicos de sintaxe e estrutura.
-
-Além disso, os "Olá Mundo!" também são úteis para verificar se o ambiente de desenvolvimento está configurado corretamente e funcionando. Esses programas são uma tradição comum na programação e servem como um ponto de partida para iniciantes explorarem os fundamentos de uma linguagem de programação.
-
-## 1.1 - Escrevendo na tela a mensagem "Olá Mundo!"
-
-### Métodos para printar na tela
-[Acesse o código](../../../../Languages/Ruby/01/Ruby-01.rb)
+[Acesse o código](../../../../Languages/Ruby/01/Ruby_01_01_00_00.rb)
 
 #### Maneira 1
 
@@ -40,73 +33,6 @@ p "Olá Mundo!"
 ##### Saída:
 "Olá Mundo!"<br>
 "Olá Mundo!"
-
-<br>
-
-#### Maneira 3
-
-O método "print" não adiciona uma nova linha, permitindo que a saída seja impressa na mesma linha ou para formatar saídas sem quebras de linha.
-
-```Ruby
-
-print "Olá Mundo!"
-print "Olá Mundo!"
-
-```
-##### Saída:
-Olá Mundo!Olá Mundo!
-
-<br>
-
-#### Maneira 4
-
-O método "printf" é usado para formatar a saída de acordo com um especificador de formato, semelhante à função "printf" em linguagens como C. E semelhante ao "print", não adiciona uma nova linha.
-
-```Ruby
-
-printf("Texto: %s, Letras: %d", "Olá Mundo", 8)
-printf("Texto: %s, Letras: %d", "Olá Mundo", 8)
-
-```
-##### Saída:
-Texto: Olá Mundo, Letras: 8Texto: Olá Mundo, Letras: 8
-
-<br>
-
-### Otimizando linhas de código
-
-Em vez de usar estes métodos para cada linha que se busca printar, é permitindo utilizar a "," após cada sentença:
-
-```Ruby
-
-puts "Olá Mundo!", "Olá Mundo!"
-
-```
-##### Saída:
-Olá Mundo!<br>
-Olá Mundo!<br>
-
-<br>
-
-### Pulando linha
-
-Existe uma forma de quebrar linha nos exemplos acima, com a expressão regular "\n".
-
-```Ruby
-
-print "Olá Mundo!\n"
-print "Olá Mundo!\n"
-
-```
-##### Saída:
-Olá Mundo!<br>
-Olá Mundo!<br>
-
-<br>
-
-## Conclusão
-
-
 
 <br><br>
 
