@@ -1,6 +1,12 @@
 # Aprendizado de Programação por Comparação de Conceitos
 
-Este repositório visa facilitar o aprendizado profundo de linguagens de programação, ao focarmos nos conceitos e compararmos os mesmos em cada uma das mais diversas linguagens, seja estes em seus vários paradigmas, estruturas de dados e de fluxo, algoritmos e outras estruturas.
+Este projeto visa facilitar o aprendizado profundo de 12 linguagens de programação, ao focarmos nos conceitos e compararmos os mesmos em cada uma das mais diversas linguagens de programação, nos seus conceitos mais básicos, em suas formas dversas de expressar os paradigmas e de bonus, os mais diversos algoritmos escritos em cada uma das linguagens do projeto.
+
+Se está aprendendo sua primeira linguagem, veja nosso projeto como um apoio do que existe, uma trilha de assuntos a serem vistos, mas não como fonte única. Para ajudar nos estudos, veja esta [Trilha de Conteúdos para Aprender Programação]()
+
+E se está buscando aprender uma segunda linguagem, pode estar consultando a linguagem que busca aprender e abrindo numa outra aba, a linguagem que já conhece, assim permitindo otimizar seu aprendizado ao visualizar os pontos semelhantes entre elas.
+
+Você pode interagir facilmente por meio dos tópicos abaixo, ao escolher o conceito desejado e verificar se existe nas linguagens preferidas, através da tabela que sempre acompanha cada opção.
 
 ## Sobre
 
@@ -13,6 +19,7 @@ Para entender este projeto:
 ## O projeto
 
 ### 0 - [Introdução as Linguagens](./Pages/Portugues/00/Sobre-Linguagens.md)
+
 Sobre a história, características principais, sintaxe e ambientes de desenvolvimento de cada uma das Linguagens de programação que traz neste projeto.
 
 <table id="00-00" align="center">
@@ -83,6 +90,7 @@ Sobre a história, características principais, sintaxe e ambientes de desenvolv
 </table>
 
 ### 1 - [Todas as formas de escrever na tela "Olá Mundo!"](./Pages/Portugues/01/Ola-Mundo.md)
+
 O conceito de escrever na tela (ou console) esta tão famosa frase.
 
 <table id="01-00" align="center">
@@ -153,6 +161,7 @@ O conceito de escrever na tela (ou console) esta tão famosa frase.
 </table>
 
 ### 2 - [Conceitos Fundamentais](./Pages/Portugues/02/Fundamentos.md)
+
 Conceitos primordiais que estarão presentes em toda a trajetória do programador.
 
 <table id="02-00" align="center">
@@ -223,7 +232,8 @@ Conceitos primordiais que estarão presentes em toda a trajetória do programado
 </table>
 
 ### 3 - [Estruturas de E/S](./Pages/Portugues/03/Estruturas-de-E-S.md)
-Um conceito que permite que o código trabalhe com o mundo externo, consumindo, executando e entregando resultados.
+
+Conceito que permite que o código trabalhe com o mundo externo, consumindo, executando e entregando resultados.
 
 <table id="03-00" align="center">
     <tr>
@@ -293,7 +303,8 @@ Um conceito que permite que o código trabalhe com o mundo externo, consumindo, 
 </table>
 
 ### 4 - [Estruturas de Fluxo](./Pages/Portugues/04/Estruturas-de-Fluxo.md)
-Um conceito que permite criar código que decida e realiza multiplas ações em looping.
+
+Conceito que permite criar código que decida e realiza multiplas ações em looping.
 
 <table id="04-00" align="center">
     <tr>
@@ -363,7 +374,8 @@ Um conceito que permite criar código que decida e realiza multiplas ações em 
 </table>
 
 ### 5 - [Estruturas de Rede](./Pages/Portugues/05/Estruturas-de-Rede.md)
-Conjunto de conceitos relacionados a integração com a internet, API e banco de dados.
+
+Conceitos relacionados a integração com a internet, API e banco de dados.
 
 <table id="05-00" align="center">
     <tr>
@@ -433,7 +445,8 @@ Conjunto de conceitos relacionados a integração com a internet, API e banco de
 </table>
 
 ### 6 - [Estruturas de Dados](./Pages/Portugues/06/Estruturas-de-Dados.md)
-Conceitos que abrangem estruturas de organização do mundo real, aplicados em programação.
+
+Conceitos que abrangem estruturas de organização do mundo real, para a manipulação de dados.
 
 <table id="06-00" align="center">
     <tr>
@@ -503,6 +516,7 @@ Conceitos que abrangem estruturas de organização do mundo real, aplicados em p
 </table>
 
 ### 7 - [Paradigma Orientado a Objetos](./Pages/Portugues/07/Paradigma-POO.md)
+
 Paradigma que organiza o software em torno de "objetos," que são instâncias de "classes". Foca em encapsular dados e comportamentos juntos.
 
 <table id="07-00" align="center">
@@ -573,6 +587,7 @@ Paradigma que organiza o software em torno de "objetos," que são instâncias de
 </table>
 
 ### 8 - [Paradigma Funcional](./Pages/Portugues/08/Paradigma-Funcional.md)
+
 Paradigma que trata a computação como a avaliação de funções matemáticas, evitando mudanças de estado e dados mutáveis.
 
 <table id="08-00" align="center">
@@ -643,6 +658,7 @@ Paradigma que trata a computação como a avaliação de funções matemáticas,
 </table>
 
 ### 9 - [Paradigma Assíncrono](./Pages/Portugues/09/Paradigma-Assincrono.md)
+
 Paradigma que permite operações que iniciem e continuem sem esperar pela conclusão de uma operação atual.
 
 <table id="09-00" align="center">
@@ -713,7 +729,8 @@ Paradigma que permite operações que iniciem e continuem sem esperar pela concl
 </table>
 
 ### 10 - [Paradigma Concorrente](./Pages/Portugues/10/Paradigma-Concorrente.md)
-Paradigma que lida com a execução de múltiplas tarefas ao mesmo tempo, podendo ser threads, processos ou outras unidades de execução.
+
+Paradigma que lida com a execução de múltiplas tarefas ao mesmo tempo.
 
 <table id="10-00" align="center">
     <tr>
@@ -783,7 +800,8 @@ Paradigma que lida com a execução de múltiplas tarefas ao mesmo tempo, podend
 </table>
 
 ### 11 - [Outros Paradigmas](./Pages/Portugues/11/Paradigmas.md)
-Conjunto de projetos desenvolvidos com base nos tópicos anteriores.
+
+Demais outros paradigmas menos utilizados, mas de aplicação crucial em determinadas situações.
 
 <table id="11-00" align="center">
     <tr>
@@ -853,7 +871,8 @@ Conjunto de projetos desenvolvidos com base nos tópicos anteriores.
 </table>
 
 ### 12 - [Algoritmos](./Pages/Portugues/12/Algoritmos.md)
-Conjunto de projetos desenvolvidos com base nos tópicos anteriores.
+
+Conjunto de algoritmos para as mais diversas aplicabilidades.
 
 <table id="12-00" align="center">
     <tr>
