@@ -657,7 +657,7 @@ Paradigma que trata a computação como a avaliação de funções matemáticas,
     </tr>
 </table>
 
-### 9 - [Paradigma Assíncrono](./Pages/Portugues/09/Paradigma-Assincrono.md)
+### 9 - [Paradigma Concorrente](./Pages/Portugues/09/Paradigma-Concorrente.md)
 
 Paradigma que permite operações que iniciem e continuem sem esperar pela conclusão de uma operação atual.
 
@@ -728,7 +728,7 @@ Paradigma que permite operações que iniciem e continuem sem esperar pela concl
     </tr>
 </table>
 
-### 10 - [Paradigma Concorrente](./Pages/Portugues/10/Paradigma-Concorrente.md)
+### 10 - [Paradigma Paralelo](./Pages/Portugues/10/Paradigma-Paralelo.md)
 
 Paradigma que lida com a execução de múltiplas tarefas ao mesmo tempo.
 
